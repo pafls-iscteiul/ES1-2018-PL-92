@@ -27,7 +27,7 @@ public class TwitterP {
 		Twitter twitter = tf.getInstance();
 		int counter = 0;
 
-		File file = new File("C:/Users/Sofia Cordeiro/git/ES1-2018-PL-92/Tabela/src/tentar.txt");
+		File file = new File("C:/Users/Sofia Cordeiro/git/ES1-2018-PL-92/Tabela/src/tweets.txt");
 	
 		PrintWriter escrever = new PrintWriter(file);
 
