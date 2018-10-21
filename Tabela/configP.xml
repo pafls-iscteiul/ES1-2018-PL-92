@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<XML>	
+	<Service Account="assrc@iscte-iul.pt" Password="Sherlock221b"/>
+	<Service Account="jose@iscte-iul.pt" Password="efgh"/>
+	<Paths>
+		<docPath>/users/js/importantDocument.doc</docPath>
+		<logPath>/users/js/dailyLog.log</logPath>
+	</Paths>	
+<Service Account="manuel@iscte-iul.pt" Password="xyzw" Protocol="smtp"/>
+<OtherNewTag>More new data</OtherNewTag>
+<Service Account="manuel@iscte-iul.pt" Password="xyzw" Protocol="smtp"/>
+<OtherNewTag>More new data</OtherNewTag>
+<Service Account="manuel@iscte-iul.pt" Password="xyzw" Protocol="smtp"/>
+<OtherNewTag>More new data</OtherNewTag>
+<Service Account="manuel@iscte-iul.pt" Password="xyzw" Protocol="smtp"/>
+<OtherNewTag>More new data</OtherNewTag>
+<Service Account="manuel@iscte-iul.pt" Password="xyzw" Protocol="smtp"/>
+<OtherNewTag>More new data</OtherNewTag>
+<Service Account="manuel@iscte-iul.pt" Password="xyzw" Protocol="smtp"/>
+<OtherNewTag>More new data</OtherNewTag>
+</XML>
