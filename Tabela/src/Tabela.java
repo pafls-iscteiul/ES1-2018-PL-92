@@ -213,6 +213,18 @@ public class Tabela extends JFrame {
 		}
 		return arr;
 	}
+	
+//	public ArrayList<String> getDate(){
+//		ArrayList<String> lista = criaLista();
+//		ArrayList<String> arr = new ArrayList<String>();
+//		
+//		for(String a : lista){
+//			String first_word = a.split("|")[0];	
+//			tArea1.append(first_word+ "\n");
+//		}
+//		
+//		return arr;
+//	}
 
 
 
