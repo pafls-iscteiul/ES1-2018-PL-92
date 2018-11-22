@@ -27,7 +27,7 @@ public class TwitterP {
 		Twitter twitter = tf.getInstance();
 		int counter = 0;
 //
-		File file = new File("C:/Users/Sofia Cordeiro/git/ES1-2018-PL-92/Tabela/src/tweets.txt");
+		File file = new File("C:/Users/gabrielaamaral/git/ES1-2018-PL-92/Tabela/src/tweets.txt");
 	
 		PrintWriter escrever = new PrintWriter(file);
 
@@ -118,7 +118,7 @@ public class TwitterP {
 //				}
 //				counterTotal++;
 //			}
-//			System.out.println("-------------\nNº of Results: " + counter+"/"+counterTotal);
+//			System.out.println("-------------\nNï¿½ of Results: " + counter+"/"+counterTotal);
 //		} catch (Exception e) { 
 //			System.out.println(e.getMessage()); 
 //			e.printStackTrace();

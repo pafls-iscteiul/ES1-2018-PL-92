@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/Sofia Cordeiro/Downloads/restfb-2.11.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Sofia Cordeiro/Downloads/twitter4j/lib/twitter4j-core-4.0.7.jar"/>
+	<classpathentry kind="lib" path="/Users/gabrielaamaral/Desktop/IGE 3.1/ES/restfb-master/lib/restfb-taglets-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/gabrielaamaral/Desktop/IGE 3.1/ES/twitter4j-4.0.7/lib/twitter4j-async-4.0.7.jar"/>
+	<classpathentry kind="lib" path="/Users/gabrielaamaral/Desktop/IGE 3.1/ES/twitter4j-4.0.7/lib/twitter4j-core-4.0.7.jar"/>
+	<classpathentry kind="lib" path="/Users/gabrielaamaral/Desktop/IGE 3.1/ES/twitter4j-4.0.7/lib/twitter4j-examples-4.0.7.jar"/>
+	<classpathentry kind="lib" path="/Users/gabrielaamaral/Desktop/IGE 3.1/ES/twitter4j-4.0.7/lib/twitter4j-stream-4.0.7.jar"/>
+	<classpathentry kind="lib" path="/Users/gabrielaamaral/.m2/repository/com/restfb/restfb/2.12.0/restfb-2.12.0.jar" sourcepath="/Users/gabrielaamaral/.m2/repository/com/restfb/restfb/2.12.0/restfb-2.12.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="com.restfb"/>
+			<attribute name="maven.artifactId" value="restfb"/>
+			<attribute name="maven.version" value="2.12.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
