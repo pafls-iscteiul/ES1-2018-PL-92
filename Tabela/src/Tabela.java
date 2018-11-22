@@ -1,4 +1,5 @@
 import java.awt.BorderLayout;
+
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
@@ -16,6 +17,7 @@ import javax.swing.JTable;
 import javax.swing.JTextArea;
 import javax.swing.BoxLayout;
 import javax.swing.DefaultListModel;
+import javax.swing.ImageIcon;
 import javax.swing.JTextField;
 import javax.swing.JButton;
 import javax.swing.JScrollPane;
@@ -35,20 +37,26 @@ import java.awt.event.ActionEvent;
 import javax.swing.JRadioButton;
 import java.awt.Font;
 import java.awt.TextArea;
+import java.util.List;
+import java.awt.Color;
+import javax.swing.JScrollBar;
+
 
 public class Tabela extends JFrame {
 
 	private JPanel contentPane;
 	private JScrollPane pane;
-	private JTextField textField;
-	private JTextField textField_1;
 	private JTextField textField_3;
 	private String search;
 	private JTextArea tArea;
 
-	private List<String> listaTexto;
+	private List<String> listaTweets;
+	private List<String> listaMails;
+	private List<String> listaPosts;
 	File[] file = null;
 	private boolean clickedTwitter = false;
+	private boolean clickedMail = false;
+	private boolean clickedFacebook= false;
 
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
@@ -67,74 +75,63 @@ public class Tabela extends JFrame {
 
 
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		setBounds(200, 200, 850, 600);
+		setBounds(500, 50, 850, 600);
 		contentPane = new JPanel();
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
 		setContentPane(contentPane);
 		contentPane.setLayout(null);
 
-
-		JLabel lblAccount = new JLabel("Account");
-		lblAccount.setFont(new Font("Tahoma", Font.PLAIN, 15));
-		lblAccount.setBounds(553, 114, 75, 14);
-		contentPane.add(lblAccount);
-
-		textField = new JTextField();
-		textField.setBounds(691, 111, 133, 20);
-		contentPane.add(textField);
-		textField.setColumns(10);
-
-		JLabel lblPassword = new JLabel("Password");
-		lblPassword.setFont(new Font("Tahoma", Font.PLAIN, 15));
-		lblPassword.setBounds(553, 148, 75, 14);
-		contentPane.add(lblPassword);
-
-		textField_1 = new JTextField();
-		textField_1.setBounds(691, 145, 133, 20);
-		contentPane.add(textField_1);
-		textField_1.setColumns(10);
-
-		JButton btnAdd = new JButton("Add");
-		btnAdd.setFont(new Font("Tahoma", Font.PLAIN, 13));
-		btnAdd.setBounds(622, 284, 89, 23);
-		contentPane.add(btnAdd);
-
-		JButton btnRemove = new JButton("Remove");
-		btnRemove.setFont(new Font("Tahoma", Font.PLAIN, 13));
-		btnRemove.setBounds(622, 318, 89, 23);
-		contentPane.add(btnRemove);
-
-		JButton btnModify = new JButton("Modify");
-		btnModify.setFont(new Font("Tahoma", Font.PLAIN, 13));
-		btnModify.setBounds(622, 352, 89, 23);
-		contentPane.add(btnModify);
-
-		JButton btnLogin = new JButton("Login");
+		JButton btnLogin = new JButton("Load");
+		btnLogin.setForeground(new Color(0, 0, 0));
 		btnLogin.setFont(new Font("Tahoma", Font.PLAIN, 15));
 		btnLogin.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
+				tArea.setText("");
 				if(isTwitter()) {
-					ArrayList<String> lista =criaLista();
+					
+					ArrayList<String> lista =criaListaTwitter();
 					for(String a : lista){
 						tArea.append(a + "\n");
 					}
+					resetTwitterButton();
+				}
+				if (isMail()) {
+					
+					ArrayList<String> l =criaListaMail();
+					for(String a : l){
+						tArea.append(a + "\n");
+					}
+					resetMailButton();			
+				}
+				
+				else if(isFacebook()) {
+					
+					ArrayList<String> l =criaListaFacebook();
+					for(String a : l){
+						tArea.append(a + "\n");
+					}
+					resetFacebookButton();			
 				}
 			}
 		});	
 
-		btnLogin.setBounds(622, 229, 89, 23);
+		btnLogin.setBounds(638, 510, 89, 23);
 		contentPane.add(btnLogin);
 
 		JButton btnNewButton = new JButton("Search");
-		btnNewButton.setFont(new Font("Tahoma", Font.PLAIN, 14));
+		btnNewButton.setFont(new Font("Tahoma", Font.PLAIN, 16));
 		btnNewButton.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent arg0) {
-
-
+				tArea.setText("");
+				String s =textField_3.getText();
+				ArrayList<String> a=procura(s);
+				
+				for(String bb : a){
+					tArea.append(bb + "\n");
+				}
+				
 			}
 		});
-
-
 		btnNewButton.setBounds(350, 31, 175, 31);
 		contentPane.add(btnNewButton);
 
@@ -149,46 +146,127 @@ public class Tabela extends JFrame {
 		rdbtnTwitter.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				clickedTwitter=true;
+				
 			}
-
 		});
-
-
-
-
-		rdbtnTwitter.setBounds(701, 188, 109, 23);
+		rdbtnTwitter.setBounds(638, 350, 109, 23);
 		contentPane.add(rdbtnTwitter);
 
 		JRadioButton rdbtnFacebook = new JRadioButton("Facebook");
 		rdbtnFacebook.setFont(new Font("Tahoma", Font.PLAIN, 13));
-		rdbtnFacebook.setBounds(567, 188, 109, 23);
+		rdbtnFacebook.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				clickedFacebook=true;
+			}
+		});
+		rdbtnFacebook.setBounds(638, 204, 109, 23);
 		contentPane.add(rdbtnFacebook);
 
+		JRadioButton rdbtnEmail = new JRadioButton("E-mail");
+		rdbtnEmail.setFont(new Font("Tahoma", Font.PLAIN, 13));
+		rdbtnEmail.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				clickedMail=true;
+			}
+		});
+		rdbtnEmail.setBounds(638, 469, 109, 23);
+		contentPane.add(rdbtnEmail);
+
+
+
 		tArea =new JTextArea();
-		tArea.setBounds(10, 114, 515, 419);
-		//pane=new JScrollPane(tArea);
-		contentPane.add(tArea);
+		tArea.setBounds(10, 97, 515, 436);	
+		pane = new JScrollPane(tArea);
+		pane.setBounds(10, 97, 515, 436);
+		contentPane.add(pane);
+
+
+
+		JLabel label = new JLabel("");
+		java.awt.Image img = new ImageIcon (this.getClass().getResource("/fI.png")).getImage();
+		label.setIcon(new ImageIcon(img));
+		label.setBounds(625, 114, 122, 113);
+		contentPane.add(label);
+
+		JLabel label_1 = new JLabel("");
+		java.awt.Image img2 = new ImageIcon (this.getClass().getResource("/tweetI.png")).getImage();
+		label_1.setIcon(new ImageIcon(img2));
+		label_1.setBounds(625, 251, 122, 119);
+		contentPane.add(label_1);
+
+		JLabel label_2 = new JLabel("");
+		java.awt.Image img3 = new ImageIcon (this.getClass().getResource("/GI.png")).getImage();
+		label_2.setIcon(new ImageIcon(img3));
+		label_2.setBounds(619, 397, 128, 95);
+		contentPane.add(label_2);
+
+		JLabel lblBomDiaAcademia = new JLabel("Bom Dia Academia");
+		lblBomDiaAcademia.setFont(new Font("Berlin Sans FB", Font.PLAIN, 18));
+		lblBomDiaAcademia.setBounds(580, 49, 167, 35);
+		contentPane.add(lblBomDiaAcademia);
+
+		JLabel label_4 = new JLabel("");
+		java.awt.Image img4 = new ImageIcon (this.getClass().getResource("/hat.png")).getImage();
+		label_4.setIcon(new ImageIcon(img4));
+		label_4.setBounds(732, 11, 92, 73);
+		contentPane.add(label_4);
+
+
 	}
 
 
 	public String getSearch() {
 		return search;
 	}
-	public List<String> readFile(File f) {
+	public List<String> readFileTwitter(File f) {
 		String line = null;
 		f = new File("C:/Users/Sofia Cordeiro/git/ES1-2018-PL-92/Tabela/src/tweets.txt");
 		try {
 			Scanner s = new Scanner(f);
 			while (s.hasNextLine()) {
 				line = s.nextLine();
-				listaTexto.add(line);
+				listaTweets.add(line);
 			}
 			s.close();
 		} catch (FileNotFoundException e) {
 
 			e.printStackTrace();
 		}
-		return listaTexto;
+		return listaTweets;
+	}
+
+	public List<String> readFileMail(File f) {
+		String line = null;
+		f = new File("C:/Users/Sofia Cordeiro/git/ES1-2018-PL-92/Tabela/src/mail.txt");
+		try {
+			Scanner s = new Scanner(f);
+			while (s.hasNextLine()) {
+				line = s.nextLine();
+				listaMails.add(line);
+			}
+			s.close();
+		} catch (FileNotFoundException e) {
+
+			e.printStackTrace();
+		}
+		return listaMails;
+	}
+	
+	public List<String> readFileFacebook(File f) {
+		String line = null;
+		f = new File("C:/Users/Sofia Cordeiro/git/ES1-2018-PL-92/Tabela/src/postsFacebook.txt");
+		try {
+			Scanner s = new Scanner(f);
+			while (s.hasNextLine()) {
+				line = s.nextLine();
+				listaPosts.add(line);
+			}
+			s.close();
+		} catch (FileNotFoundException e) {
+
+			e.printStackTrace();
+		}
+		return listaPosts;
 	}
 
 	public boolean isTwitter() {
@@ -198,7 +276,34 @@ public class Tabela extends JFrame {
 		return false;
 	}
 
-	public ArrayList<String> criaLista() {
+	public boolean isMail() {
+		if(clickedMail==true) {
+			return true;
+		}
+		return false;
+	}
+	
+	public boolean isFacebook() {
+		if(clickedFacebook==true) {
+			return true;
+		}
+		return false;
+	}
+	
+	public void resetTwitterButton() {
+		clickedTwitter=false;	
+	}
+
+	public void resetMailButton() {
+		clickedMail=false;	
+	}
+	
+	
+	public void resetFacebookButton() {
+		clickedFacebook=false;	
+	}
+	
+	public ArrayList<String> criaListaTwitter() {
 		ArrayList<String> arr = new ArrayList<String>();
 		try (BufferedReader br = new BufferedReader(new FileReader("C:/Users/Sofia Cordeiro/git/ES1-2018-PL-92/Tabela/src/tweets.txt"))){
 
@@ -213,26 +318,64 @@ public class Tabela extends JFrame {
 		}
 		return arr;
 	}
+
+	public ArrayList<String> criaListaMail() {
+		ArrayList<String> d = new ArrayList<String>();
+		try (BufferedReader br = new BufferedReader(new FileReader("C:/Users/Sofia Cordeiro/git/ES1-2018-PL-92/Tabela/src/mail.txt"))){
+
+			String sCurrentLine;
+
+			while ((sCurrentLine = br.readLine()) != null) {
+				d.add(sCurrentLine);
+			}
+
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		return d;
+	}
 	
-//	public ArrayList<String> getDate(){
-//		ArrayList<String> lista = criaLista();
-//		ArrayList<String> arr = new ArrayList<String>();
-//		
-//		for(String a : lista){
-//			String first_word = a.split("|")[0];	
-//			tArea1.append(first_word+ "\n");
-//		}
-//		
-//		return arr;
-//	}
+	public ArrayList<String> criaListaFacebook() {
+		ArrayList<String> d = new ArrayList<String>();
+		try (BufferedReader br = new BufferedReader(new FileReader("C:/Users/Sofia Cordeiro/git/ES1-2018-PL-92/Tabela/src/postsFacebook.txt"))){
 
+			String sCurrentLine;
 
+			while ((sCurrentLine = br.readLine()) != null) {
+				d.add(sCurrentLine);
+			}
 
-
-
-
-
-
-
-
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		return d;
+	}
+	
+	public ArrayList<String> procura(String a){
+		ArrayList<String> s = new ArrayList<String>();
+		if(clickedTwitter==true) {
+			for(String f: listaTweets) {
+				if(f.equals(a)) {
+					s.add(f);
+				}
+			}
+		}
+		if(clickedMail==true) {
+			for(String f: listaMails) {
+				if(f.equals(a)) {
+					s.add(f);
+				}
+			}
+		}
+		if(clickedFacebook==true) {
+			for(String f: listaPosts) {
+				if(f.equals(a)) {
+					s.add(f);
+				}
+			}
+		}
+		
+		
+		return s;
+	}
 }
