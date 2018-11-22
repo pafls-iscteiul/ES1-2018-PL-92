@@ -11,8 +11,13 @@ import twitter4j.TwitterException;
 import twitter4j.TwitterFactory;
 import twitter4j.conf.ConfigurationBuilder;
 
+/**
+* Método para ir buscar o home timeline do utilizador que faz login na platadorma twitter através da nossa aplicação
+* @param Sem quaisquer parametros apenas precisa na inicialização do método de tokens gerado pela plataforma de developers da rede social
+* @return Retorna em String a home timeline desse mesmo utilizador
+*/
 public class TwitterP {
-
+	private int counter;
 	public static void main(String[] args) throws TwitterException, FileNotFoundException {
 
 		ConfigurationBuilder cf = new ConfigurationBuilder();
@@ -52,6 +57,12 @@ public class TwitterP {
 			}
 		}
 		escrever.close();
+	}
+	public int getCounter() {
+		return counter;
+	}
+	public  void setCounter(int a) {
+		counter=a;
 	}
 }
 

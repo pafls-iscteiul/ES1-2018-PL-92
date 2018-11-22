@@ -18,6 +18,11 @@ import java.awt.event.ActionListener;
 import java.util.ArrayList;
 import javax.swing.JPasswordField;
 
+/**
+ * Cria a interface da aplicação 
+ * @param cria a interface de raiz sem quaisquer argumentos
+ * @return retorna uma frame que inclui a interface 
+ */
 public class BaseApp extends JFrame{
 	
 	private JPanel contentPane;

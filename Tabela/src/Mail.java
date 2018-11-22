@@ -15,8 +15,14 @@ import javax.swing.JOptionPane;
 
 import com.sun.mail.pop3.POP3Store;
 
+/**
+ * Método para ir buscar todos os e mails 
+ * @param Sem quaisquer parametros apenas precisa na inicialização do método que tipo de serviço de webmail o utilizador que está a fazer login usa,o seu mail e a sua password
+ * @return Retorna em String todos os e mails na caixa de entrada no utilizador
+ */
 public class Mail {
-
+	static int msgPretendidas;
+	private String mail;
 	public static void main(String[] args) throws FileNotFoundException {
 
 
@@ -32,8 +38,6 @@ public class Mail {
 
 		File file = new File("C:/Users/Sofia Cordeiro/git/ES1-2018-PL-92/Tabela/src/mail.txt");
 		PrintWriter escrever = new PrintWriter(file);
-
-		//receiveEmail(mailPop3Host, mailStoreType, mail, password);
 
 		try {
 
@@ -53,7 +57,9 @@ public class Mail {
 
 			Message[] messages = emailFolder.getMessages();
 			//for (int i = 0; i < messages.length; i++) {
-			for (int i = 0; i < 30; i++) {
+			
+			msgPretendidas=30;
+			for (int i = 0; i <msgPretendidas ; i++) {
 				Message message = messages[i];
 
 
@@ -79,7 +85,16 @@ public class Mail {
 			e.printStackTrace();
 		}
 		escrever.close();
+
+
 	}	
+	
+	public void setMsgPretendidas(int msgPretendidas) {
+		this.msgPretendidas = msgPretendidas;
+	}
+	public int getMsgPretendidas() {
+		return msgPretendidas;
+	}
 
 }
 

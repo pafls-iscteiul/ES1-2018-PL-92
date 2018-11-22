@@ -47,8 +47,10 @@ import twitter4j.Twitter;
 import twitter4j.TwitterFactory;
 import twitter4j.conf.ConfigurationBuilder;
 
+
 public class Tweets extends JFrame {
 
+	
 	private JPanel contentPane;
 	private JScrollPane pane;
 	private JTextField textField;
