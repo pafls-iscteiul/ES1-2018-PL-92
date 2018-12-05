@@ -12,8 +12,8 @@ import twitter4j.TwitterFactory;
 import twitter4j.conf.ConfigurationBuilder;
 
 /**
-* Método para ir buscar o home timeline do utilizador que faz login na platadorma twitter através da nossa aplicação
-* @param Sem quaisquer parametros apenas precisa na inicialização do método de tokens gerado pela plataforma de developers da rede social
+* Mï¿½todo para ir buscar o home timeline do utilizador que faz login na platadorma twitter atravï¿½s da nossa aplicaï¿½ï¿½o
+* @param Sem quaisquer parametros apenas precisa na inicializaï¿½ï¿½o do mï¿½todo de tokens gerado pela plataforma de developers da rede social
 * @return Retorna em String a home timeline desse mesmo utilizador
 */
 public class TwitterP {
@@ -32,7 +32,7 @@ public class TwitterP {
 		Twitter twitter = tf.getInstance();
 		int counter = 0;
 
-		File file = new File("C:/Users/Sofia Cordeiro/git/ES1-2018-PL-92/Tabela/src/tweets.txt");
+		File file = new File("C:/Users/gabrielaamaral/git/ES1-2018-PL-92/Tabela/src/tweets.txt");
 	
 		PrintWriter escrever = new PrintWriter(file);
 
@@ -129,7 +129,7 @@ public class TwitterP {
 //				}
 //				counterTotal++;
 //			}
-//			System.out.println("-------------\nNº of Results: " + counter+"/"+counterTotal);
+//			System.out.println("-------------\nNï¿½ of Results: " + counter+"/"+counterTotal);
 //		} catch (Exception e) { 
 //			System.out.println(e.getMessage()); 
 //			e.printStackTrace();

@@ -16,8 +16,8 @@ import javax.swing.JOptionPane;
 import com.sun.mail.pop3.POP3Store;
 
 /**
- * Método para ir buscar todos os e mails 
- * @param Sem quaisquer parametros apenas precisa na inicialização do método que tipo de serviço de webmail o utilizador que está a fazer login usa,o seu mail e a sua password
+ * Mï¿½todo para ir buscar todos os e mails 
+ * @param Sem quaisquer parametros apenas precisa na inicializaï¿½ï¿½o do mï¿½todo que tipo de serviï¿½o de webmail o utilizador que estï¿½ a fazer login usa,o seu mail e a sua password
  * @return Retorna em String todos os e mails na caixa de entrada no utilizador
  */
 public class Mail {
@@ -36,7 +36,7 @@ public class Mail {
 		String mailPop3Host = "outlook.office365.com";
 		String mailStoreType = "pop3";
 
-		File file = new File("C:/Users/Sofia Cordeiro/git/ES1-2018-PL-92/Tabela/src/mail.txt");
+		File file = new File("C:/Users/gabrielaamaral/git/ES1-2018-PL-92/Tabela/src/mail.txt");
 		PrintWriter escrever = new PrintWriter(file);
 
 		try {

@@ -10,8 +10,8 @@ import com.restfb.Version;
 import com.restfb.types.Post;
 import com.restfb.types.User;
 /**
- * Método para ir buscar a timeline de um utilizador do facebook
- * @param Sem quaisquer parametros apenas precisa na inicialização do método de tokens gerado pela plataforma de developers da rede social
+ * Mï¿½todo para ir buscar a timeline de um utilizador do facebook
+ * @param Sem quaisquer parametros apenas precisa na inicializaï¿½ï¿½o do mï¿½todo de tokens gerado pela plataforma de developers da rede social
  * @return Retorna em String o feed de um utilizador da rede social
  */
 
@@ -38,13 +38,13 @@ public class Facebook {
 		//		//5
 
 		String accessToken5 ;
-		accessToken5 = "EAAbbSpTKksgBAF4fZAn8yaeSusoPfRoNMD8pQbNF9UBYn0Q7VY0umZCtDM2f5YRcN7AjU1WW9J00tTO4fTPZAaF28J5AL6kjkwuNbf0trZBt3QgB1DwzCCbiiM8NSdAHxhtSkOKr3Ej5TW1yzOZC8HM2BniTZCIjbMxWZBLs2eYcdeytpbyaOSv4KXDWlg3K3QZD";	
+		accessToken5 = "EAAhDVEHQGzEBAPJ5I9jbyxZCiBhe960RBRZCOG3gH2CiIZAj0E3zX9MLP2ROOWzGZBPEKfdu8PCQIO8mZA9t3sgAXlLvBYzAZBrVwEkz35Dkwn7oYvH7ZBe1u7n1v0qab1utmIWDqotYfvJV0NBnGrnWeMxzYAZBnl3pbKqTtQZA4HvgW8wtNZAQ8ZA6SZABSfaPLHS1yXuZAhuzgigZDZD";	
 		FacebookClient fbClient5 = new DefaultFacebookClient(accessToken5);
 		//Print the posts of the time line
 		Connection<Post> result = fbClient5.fetchConnection("me/feed",Post.class);
 		//System.out.println("\nPosts:");
 
-		File file = new File("C:/Users/Sofia Cordeiro/git/ES1-2018-PL-92/Tabela/src/postsFacebook.txt");
+		File file = new File("C:/Users/gabrielaamaral/git/ES1-2018-PL-92/Tabela/src/postsFacebook.txt");
 		PrintWriter escrever = new PrintWriter(file);
 		
 		int counter5 = 1;

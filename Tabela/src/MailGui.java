@@ -120,7 +120,7 @@ public class MailGui extends JFrame {
 		contentPane.add(textField_1);
 		textField_1.setColumns(10);
 		
-		lblDfdf = new JLabel("Destinatário");
+		lblDfdf = new JLabel("Destinatï¿½rio");
 		lblDfdf.setFont(new Font("Microsoft YaHei", Font.PLAIN, 13));
 		lblDfdf.setBounds(564, 268, 77, 35);
 		contentPane.add(lblDfdf);
@@ -145,7 +145,7 @@ public class MailGui extends JFrame {
 	}
 	public List<String> readFileMail(File f) {
 		String line = null;
-		f = new File("C:/Users/Sofia Cordeiro/git/ES1-2018-PL-92/Tabela/src/mail.txt");
+		f = new File("C:/Users/gabrielaamaral/git/ES1-2018-PL-92/Tabela/src/mail.txt");
 		try {
 			Scanner s = new Scanner(f);
 			while (s.hasNextLine()) {
@@ -163,7 +163,7 @@ public class MailGui extends JFrame {
 	
 	public ArrayList<String> criaListaMail() {
 		ArrayList<String> d = new ArrayList<String>();
-		try (BufferedReader br = new BufferedReader(new FileReader("C:/Users/Sofia Cordeiro/git/ES1-2018-PL-92/Tabela/src/mail.txt"))){
+		try (BufferedReader br = new BufferedReader(new FileReader("C:/Users/gabrielaamaral/git/ES1-2018-PL-92/Tabela/src/mail.txt"))){
 
 			String sCurrentLine;
 

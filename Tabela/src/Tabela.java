@@ -220,7 +220,7 @@ public class Tabela extends JFrame {
 	}
 	public List<String> readFileTwitter(File f) {
 		String line = null;
-		f = new File("C:/Users/Sofia Cordeiro/git/ES1-2018-PL-92/Tabela/src/tweets.txt");
+		f = new File("C:/Users/gabrielaamaral/git/ES1-2018-PL-92/Tabela/src/tweets.txt");
 		try {
 			Scanner s = new Scanner(f);
 			while (s.hasNextLine()) {
@@ -237,7 +237,7 @@ public class Tabela extends JFrame {
 
 	public List<String> readFileMail(File f) {
 		String line = null;
-		f = new File("C:/Users/Sofia Cordeiro/git/ES1-2018-PL-92/Tabela/src/mail.txt");
+		f = new File("C:/Users/gabrielaamaral/git/ES1-2018-PL-92/Tabela/src/tweets.txt");
 		try {
 			Scanner s = new Scanner(f);
 			while (s.hasNextLine()) {
@@ -254,7 +254,7 @@ public class Tabela extends JFrame {
 	
 	public List<String> readFileFacebook(File f) {
 		String line = null;
-		f = new File("C:/Users/Sofia Cordeiro/git/ES1-2018-PL-92/Tabela/src/postsFacebook.txt");
+		f = new File("C:/Users/gabrielaamaral/git/ES1-2018-PL-92/Tabela/src/postsFacebook.txt");
 		try {
 			Scanner s = new Scanner(f);
 			while (s.hasNextLine()) {
@@ -305,7 +305,7 @@ public class Tabela extends JFrame {
 	
 	public ArrayList<String> criaListaTwitter() {
 		ArrayList<String> arr = new ArrayList<String>();
-		try (BufferedReader br = new BufferedReader(new FileReader("C:/Users/Sofia Cordeiro/git/ES1-2018-PL-92/Tabela/src/tweets.txt"))){
+		try (BufferedReader br = new BufferedReader(new FileReader("C:/Users/gabrielaamaral/git/ES1-2018-PL-92/Tabela/src/tweets.txt"))){
 
 			String sCurrentLine;
 
@@ -321,7 +321,7 @@ public class Tabela extends JFrame {
 
 	public ArrayList<String> criaListaMail() {
 		ArrayList<String> d = new ArrayList<String>();
-		try (BufferedReader br = new BufferedReader(new FileReader("C:/Users/Sofia Cordeiro/git/ES1-2018-PL-92/Tabela/src/mail.txt"))){
+		try (BufferedReader br = new BufferedReader(new FileReader("C:/Users/gabrielaamaral/git/ES1-2018-PL-92/Tabela/src/tweets.txt"))){
 
 			String sCurrentLine;
 
@@ -337,7 +337,7 @@ public class Tabela extends JFrame {
 	
 	public ArrayList<String> criaListaFacebook() {
 		ArrayList<String> d = new ArrayList<String>();
-		try (BufferedReader br = new BufferedReader(new FileReader("C:/Users/Sofia Cordeiro/git/ES1-2018-PL-92/Tabela/src/postsFacebook.txt"))){
+		try (BufferedReader br = new BufferedReader(new FileReader("C:/Users/gabrielaamaral/git/ES1-2018-PL-92/Tabela/src/postsFacebook.txt"))){
 
 			String sCurrentLine;
 
