@@ -1,6 +1,7 @@
 import javax.swing.ImageIcon;
 import javax.swing.JFrame;
 
+import java.awt.Button;
 import java.awt.EventQueue;
 import java.awt.FlowLayout;
 import java.awt.Font;
@@ -36,6 +37,7 @@ public class MailGui extends JFrame {
 	private JLabel lblDfdf;
 	private List<String> listaMails;
 	File[] file = null;
+	String path="C:/Users/gabrielaamaral/git/ES1-2018-PL-92/Tabela/src/mail.txt";
 	
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
@@ -130,9 +132,13 @@ public class MailGui extends JFrame {
 		textArea.setFont(new Font("Monospaced", Font.PLAIN, 15));
 		textArea.setBounds(564, 328, 242, 171);
 		contentPane.add(textArea);
-		String mensagem = textArea.getText().toString();
-		System.out.println(mensagem);
-		String destinatario = textField_1.getText().toString();
+		textField_1.addActionListener(new ActionListener() {
+			
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				String desinatario=textField_1.getText();
+			}
+		});		
 		
 		JButton btnLoad = new JButton("Load");
 		btnLoad.setFont(new Font("Tahoma", Font.PLAIN, 13));
@@ -145,7 +151,7 @@ public class MailGui extends JFrame {
 	}
 	public List<String> readFileMail(File f) {
 		String line = null;
-		f = new File("C:/Users/gabrielaamaral/git/ES1-2018-PL-92/Tabela/src/mail.txt");
+		f = new File(path);
 		try {
 			Scanner s = new Scanner(f);
 			while (s.hasNextLine()) {
@@ -163,7 +169,7 @@ public class MailGui extends JFrame {
 	
 	public ArrayList<String> criaListaMail() {
 		ArrayList<String> d = new ArrayList<String>();
-		try (BufferedReader br = new BufferedReader(new FileReader("C:/Users/gabrielaamaral/git/ES1-2018-PL-92/Tabela/src/mail.txt"))){
+		try (BufferedReader br = new BufferedReader(new FileReader(path))){
 
 			String sCurrentLine;
 

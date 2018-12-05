@@ -15,6 +15,8 @@ import javax.mail.Transport;
 import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
 
+import org.jsoup.Jsoup;
+
 /**
  * M�todo para ir buscar todos os e mails
  * 
@@ -28,8 +30,8 @@ public class Mail {
 	String pophost = "outlook.office365.com";
 	String smtphost = "smtp.office365.com";
 	String mailStrProt = "pop3";
-	String uname = "agfca@iscte-iul.pt";
-	String pwd = "Champion_1997";
+	String uname = "";
+	String pwd = "";
 	private PrintWriter escrever;
 
 	public void checkEmail() throws FileNotFoundException {
@@ -63,7 +65,7 @@ public class Mail {
 				escrever.println(b);
 				String c = "From: " + message.getFrom()[0];
 				escrever.println(c);
-				String d = "Text: " + message.getContent().toString();
+				String d = "Text: " + Jsoup.parse(message.getContent().toString()).text();
 				escrever.println(d);
 
 			}
@@ -90,8 +92,8 @@ public class Mail {
 		String destmailid = destination;
 		String sendrmailid = "gsssa@iscte-iul.pt";
 		// Mention user name and password as per your configuration
-		final String uname = "gsssa@iscte-iul.pt";
-		final String pwd = "GA246410iscte";
+		final String uname = "";
+		final String pwd = "";
 		// Set properties and their values
 		Properties propvls = new Properties();
 		propvls.put("mail.smtp.auth", "true");
