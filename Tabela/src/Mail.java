@@ -1,5 +1,3 @@
-
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -10,73 +8,73 @@ import javax.mail.Folder;
 import javax.mail.Message;
 import javax.mail.MessagingException;
 import javax.mail.NoSuchProviderException;
+import javax.mail.PasswordAuthentication;
 import javax.mail.Session;
-import javax.swing.JOptionPane;
-
-import com.sun.mail.pop3.POP3Store;
+import javax.mail.Store;
+import javax.mail.Transport;
+import javax.mail.internet.InternetAddress;
+import javax.mail.internet.MimeMessage;
 
 /**
- * M�todo para ir buscar todos os e mails 
- * @param Sem quaisquer parametros apenas precisa na inicializa��o do m�todo que tipo de servi�o de webmail o utilizador que est� a fazer login usa,o seu mail e a sua password
+ * M�todo para ir buscar todos os e mails
+ * 
+ * @param Sem quaisquer parametros apenas precisa na inicializa��o do m�todo que
+ *            tipo de servi�o de webmail o utilizador que est� a fazer login
+ *            usa,o seu mail e a sua password
  * @return Retorna em String todos os e mails na caixa de entrada no utilizador
  */
 public class Mail {
 	static int msgPretendidas;
-	private String mail;
-	public static void main(String[] args) throws FileNotFoundException {
+	String pophost = "outlook.office365.com";
+	String smtphost = "smtp.office365.com";
+	String mailStrProt = "pop3";
+	String uname = "agfca@iscte-iul.pt";
+	String pwd = "Champion_1997";
+	private PrintWriter escrever;
 
+	public void checkEmail() throws FileNotFoundException {
 
-		String mail = "";
-		String password = "";
-		do {
-			mail = JOptionPane.showInputDialog(null,"Insert Mail");
-			password = JOptionPane.showInputDialog(null,"Insert Password");
-		}while(mail == null || mail.equals(" "));
-
-		String mailPop3Host = "outlook.office365.com";
-		String mailStoreType = "pop3";
-
-		File file = new File("C:/Users/gabrielaamaral/git/ES1-2018-PL-92/Tabela/src/mail.txt");
-		PrintWriter escrever = new PrintWriter(file);
-
+		File file = new File("mail.txt");
+		escrever = new PrintWriter(file);
 		try {
+			// Set property values
+			Properties propvals = new Properties();
+			propvals.put("mail.pop3.host", pophost);
+			propvals.put("mail.pop3.port", "995");
+			propvals.put("mail.pop3.starttls.enable", "true");
+			Session emailSessionObj = Session.getDefaultInstance(propvals);
+			// Create POP3 store object and connect with the server
+			Store storeObj = emailSessionObj.getStore("pop3s");
+			storeObj.connect(pophost, uname, pwd);
+			// Create folder object and open it in read-only mode
+			Folder emailFolderObj = storeObj.getFolder("INBOX");
+			emailFolderObj.open(Folder.READ_ONLY);
+			// Fetch messages from the folder and print in a loop
+			Message[] messageobjs = emailFolderObj.getMessages();
 
-			Properties properties = new Properties();
-			properties.put("mail.pop3.host", mailPop3Host);
-			properties.setProperty("mail.pop3.ssl.enable", "false");
-			properties.setProperty("mail.pop3.starttls.enable", "true");
-			properties.setProperty("mail.pop3.starttls.required", "true");
-
-			Session emailSession = Session.getDefaultInstance(properties);
-
-			POP3Store emailStore = (POP3Store) emailSession.getStore(mailStoreType);
-			emailStore.connect(mail, password);
-
-			Folder emailFolder = emailStore.getFolder("INBOX");
-			emailFolder.open(Folder.READ_ONLY);
-
-			Message[] messages = emailFolder.getMessages();
-			//for (int i = 0; i < messages.length; i++) {
-			
-			msgPretendidas=30;
-			for (int i = 0; i <msgPretendidas ; i++) {
-				Message message = messages[i];
-
-
-				String x="==============================";
+			msgPretendidas = 30;
+			for (int i = 0; i < msgPretendidas; i++) {
+				Message message = messageobjs[i];
+				String x = "==============================";
 				escrever.println(x);
-				String a="Email #" + (i + 1);
+				String a = "Email #" + (i + 1);
 				escrever.println(a);
-				String b="Subject: " + message.getSubject();
+				String b = "Subject: " + message.getSubject();
 				escrever.println(b);
-				String c="From: " + message.getFrom()[0];
+				String c = "From: " + message.getFrom()[0];
 				escrever.println(c);
-				String d="Text: " + message.getContent().toString();
+				String d = "Text: " + message.getContent().toString();
 				escrever.println(d);
 
-			}	
-			emailFolder.close(false);
-			emailStore.close();
+			}
+			emailFolderObj.close(false);
+			storeObj.close();
+			escrever.close();
+
+		} catch (FileNotFoundException e2) {
+			// TODO Auto-generated catch block
+			e2.printStackTrace();
+
 		} catch (NoSuchProviderException e) {
 			e.printStackTrace();
 		} catch (MessagingException e) {
@@ -84,43 +82,52 @@ public class Mail {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-		escrever.close();
 
+	}
 
-	}	
-	
+	public void sendEmails(String message, String destination) {
+		// Declare recipient's & sender's e-mail id.
+		String destmailid = destination;
+		String sendrmailid = "gsssa@iscte-iul.pt";
+		// Mention user name and password as per your configuration
+		final String uname = "gsssa@iscte-iul.pt";
+		final String pwd = "GA246410iscte";
+		// Set properties and their values
+		Properties propvls = new Properties();
+		propvls.put("mail.smtp.auth", "true");
+		propvls.put("mail.smtp.starttls.enable", "true");
+		propvls.put("mail.smtp.host", smtphost);
+		propvls.put("mail.smtp.port", "587");
+		// Create a Session object & authenticate uid and pwd
+		Session sessionobj = Session.getInstance(propvls, new javax.mail.Authenticator() {
+			protected PasswordAuthentication getPasswordAuthentication() {
+				return new PasswordAuthentication(uname, pwd);
+			}
+		});
+
+		try {
+			// Create MimeMessage object & set values
+			Message messageobj = new MimeMessage(sessionobj);
+			messageobj.setFrom(new InternetAddress(sendrmailid));
+			messageobj.setRecipients(Message.RecipientType.TO, InternetAddress.parse(destmailid));
+			messageobj.setText(message);
+			// Now send the message
+			Transport.send(messageobj);
+			System.out.println("Your email sent successfully....");
+		} catch (MessagingException exp) {
+			throw new RuntimeException(exp);
+		}
+	}
+
 	public void setMsgPretendidas(int msgPretendidas) {
 		this.msgPretendidas = msgPretendidas;
 	}
+
 	public int getMsgPretendidas() {
 		return msgPretendidas;
 	}
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 //	public static void receiveEmail(String pop3Host, String storeType, String user, String password) {
 //
@@ -173,4 +180,3 @@ public class Mail {
 //			e.printStackTrace();
 //		}
 //	}
-

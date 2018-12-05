@@ -1,0 +1,1815 @@
+==============================
+Email #1
+Subject: Novo início de sessão a partir do Chrome no Windows
+From: Google <no-reply@accounts.google.com>
+Text: javax.mail.internet.MimeMultipart@524d6d96
+==============================
+Email #2
+Subject: Informação sobre condições de anulação de matrícula
+From: ISCTE-IUL <noreply@iscte.pt>
+Text: javax.mail.internet.MimeMultipart@152aa092
+==============================
+Email #3
+Subject: O melhor do Verão com o ISIC!
+From: 'ISIC News' <news@isic.pt>
+Text: javax.mail.internet.MimeMultipart@44a7bfbc
+==============================
+Email #4
+Subject: Programa de Bolsas Ibero-america Santander Universidades 2017/2018 - Candidaturas abertas
+From: Outgoing IRO ISCTE-IUL <outgoing.iro@iscte-iul.pt>
+Text: javax.mail.internet.MimeMultipart@4ef37659
+==============================
+Email #5
+Subject: Inquérito- Semana da investigação 2017 | Survey - Research Week 2017
+From: GAI <GAI@iscte-iul.pt>
+Text: javax.mail.internet.MimeMultipart@776b83cc
+==============================
+Email #6
+Subject: Seja um aluno nota 10 esse ano!
+From: =?UTF-8?Q?Prezi?= <email@email.prezi.com>
+Text: javax.mail.internet.MimeMultipart@37858383
+==============================
+Email #7
+Subject: ISCTE-IUL | IPPS-IUL | Curso de Curta Duração em Playful Learning - Metodologias participativas para grupos 2017/2018 | CANDIDATURAS ABERTAS
+From: Geral IPPS ISCTE-IUL <geral.ipps@iscte-iul.pt>
+Text: javax.mail.internet.MimeMultipart@4e268090
+==============================
+Email #8
+Subject: Inquérito- Semana da investigação 2017 | Survey - Research Week 2017
+From: =?iso-8859-1?Q?Gabinete_de_Apoio_=E0_Investiga=E7=E3o_ISCTE-IUL?= <gai@iscte-iul.pt>
+Text: javax.mail.internet.MimeMultipart@1bb266b3
+==============================
+Email #9
+Subject: Sustentabilidade no Campus do ISCTE-IUL
+From: reitor <reitor@iscte-iul.pt>
+Text: <html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="Generator" content="Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle18
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang="EN-US" link="#0563C1" vlink="#954F72">
+<div class="WordSection1">
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><span lang="PT" style="font-size:12.0pt;color:black"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span lang="PT" style="font-size:12.0pt;color:black">A Reitoria assumiu o objetivo estratégico de fazer do ISCTE-IUL uma universidade sustentável. Esse objetivo só é alcançável se todas as atividades que desenvolvemos, da investigação ao
+ ensino, da extensão universitária, à gestão do campus, forem abrangidas mas isso depende sobretudo, do empenho de toda a comunidade. Como tem sido comunicado, estão em curso diversos projetos neste âmbito, dois dos quais gostaria hoje de destacar: a candidatura
+ ao POSEUR para a Eficiência Energética do Campus e a implementação do Sistema de Gestão Ambiental do ISCTE-IUL.<o:p></o:p></span></p>
+<p class="MsoNormal"><span lang="PT" style="font-size:12.0pt;color:black"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span lang="PT" style="font-size:12.0pt;color:black">É com a maior satisfação que vos comunico que foi aprovado para financiamento, pelo POSEUR, o Projeto de Eficiência Energética do Campus do ISCTE-IUL, com um investimento total de 2.007.426€
+ e uma contribuição do Fundo de Coesão da UE de 1.793.114€. O projeto inclui a reabilitação da cobertura do Edifício Sedas Nunes. Esta intervenção é de primordial importância não só por questões de eficiência energética mas, também, porque nos permite, finalmente,
+ retirar o amianto que cobre todo o edifício I (Sedas Nunes) renovando, em simultâneo, essa mesma cobertura.
+<o:p></o:p></span></p>
+<p class="MsoNormal"><span lang="PT" style="font-size:12.0pt;color:black"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span lang="PT" style="font-size:12.0pt;color:black">Estas obras envolvem ainda a substituição de sistemas de climatização nos edifícios Sedas Nunes, II e Ala Autónoma, a renovação dos sistemas de iluminação interior em todos os edifícios
+ do campus e a instalação de 1220 painéis fotovoltaicos para produção de energia elétrica a partir da energia solar. O sucesso desta candidatura resulta de um conjunto de ações persistentes e continuadas nos últimos seis anos. Este esforço iniciou-se com a
+ otimização dos consumos de energia em 2011/2012, para o que contribuiu de forma decisiva a implementação, no Fénix, da gestão de ocupação dos edifícios. Em 2012/2013, uma candidatura bem sucedida ao Fundo de Eficiência Energética, no âmbito do Programa ECO.AP,
+ permitiu o financiamento de uma auditoria energética cujo trabalho de campo decorreu em 2014 com medições das condições-ambiente interiores nos edifícios. Só este trabalho prévio nos permitiu obter a certificação energética dos edifícios do Campus, condição
+<i>sine qua non</i>, para podermos apresentar a candidatura ao POSEUR, agora aprovada. Estes dados foram também a base para a realização dos estudos de engenharia que permitiram fundamentar a candidatura que agora obteve aprovação e que será implementada ao
+ longo dos próximos três anos. Está prevista, com este projeto, uma poupança anual de 37% na energia final, 29% na energia primária e 31% nas emissões de CO2. A aprovação destes projetos não teria sido possível sem o envolvimento de várias pessoas e serviços
+ dos quais é justo destacar o colega Vasco Rato, Arquiteto João Baltazar e o serviço da Arquiteta Maria Helena Teixeira.<o:p></o:p></span></p>
+<p class="MsoNormal"><span lang="PT" style="font-size:12.0pt;color:black"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span lang="PT" style="font-size:12.0pt;color:black">Por outro lado o projeto do Sistema de Gestão Ambiental (SGA) do ISCTE-IUL, em parceria com a Associação Columbus, a Universidade de Gotemburgo e a Universidade de Aveiro, iniciado em
+ Março de 2017, permitiu já a identificação dos aspetos ambientais significativos da nossa atividade, a definição do âmbito de aplicação do sistema e da Política de Sustentabilidade do ISCTE-IUL. A implementação do SGA será integrada com o Sistema Interno de
+ Gestão da Qualidade e está prevista a certificação de acordo com a ISO 14001 no ano de 2018. Muito em breve receberão novas informações relativas a este projeto através do novo endereço eletrónico
+</span><span style="font-size:12.0pt;color:black"><a href="mailto:sustentabilidade@iscte-iul.pt"><span lang="PT" style="color:blue">sustentabilidade@iscte-iul.pt</span></a></span><span lang="PT" style="font-size:12.0pt;color:black">.<o:p></o:p></span></p>
+<p class="MsoNormal"><span lang="PT" style="font-size:12.0pt;color:black"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span lang="PT" style="font-size:12.0pt;color:black">Finalmente quero deixar um agradecimento público a todos os que voluntariamente se têm envolvido nesta causa da sustentabilidade no Campus e, relembrar, que o grupo de trabalho instituído
+ para esta área é coordenado pelo colega Vasco Rato, e tem três áreas temáticas: Social, da responsabilidade da Susana Carvalhosa, Ambiental da Catarina Roseta Palma e Económica da
+</span><span lang="PT">Ana Simaens</span><span lang="PT" style="font-size:12.0pt;color:black">.</span><span lang="PT"><o:p></o:p></span></p>
+<p class="MsoNormal"><span lang="PT" style="font-size:12.0pt;color:black"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span lang="PT" style="font-size:12.0pt;color:black">Renovo o apelo a todos, estudantes, funcionários, professores, investigadores e também ex-alunos (realçando aqui a contribuição do Pedro Norton) para se envolverem nesta causa e contactarem
+ os colegas do grupo de trabalho para eventual participação e sugestões. <o:p></o:p></span></p>
+<p class="MsoNormal"><span lang="PT" style="font-size:12.0pt;color:black"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span lang="PT" style="font-size:12.0pt;color:black">O envolvimento de toda a comunidade é determinante para o sucesso deste desígnio comum. Conto com todos para que o ISCTE-IUL se afirme como a universidade mais sustentável em Portugal.<o:p></o:p></span></p>
+<p class="MsoNormal"><span lang="PT" style="font-size:12.0pt;color:black"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span lang="PT" style="font-size:12.0pt;color:black">Com os votos de Bom Início de Ano Letivo, as minhas saudações académicas,<o:p></o:p></span></p>
+<p class="MsoNormal"><span lang="PT" style="font-size:12.0pt;color:black"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span lang="PT" style="font-size:12.0pt;color:black"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span lang="PT" style="font-size:12.0pt;color:black">Luís Reto<o:p></o:p></span></p>
+<p class="MsoNormal"><span lang="PT" style="font-size:12.0pt;color:black">O Reitor
+<o:p></o:p></span></p>
+<p class="MsoNormal"><span lang="PT"><o:p>&nbsp;</o:p></span></p>
+</div>
+</body>
+</html>
+
+==============================
+Email #10
+Subject: Monitorização Pedagógica do 1º e 2º ciclos relativa ao 2º Semestre de 2016/2017 / 1st and 2nd Cycles' Pedagogical Monitoring (2nd Semester of 2016/2017)
+From: geapq <geapq@iscte-iul.pt>
+Text: javax.mail.internet.MimeMultipart@6a6afff2
+==============================
+Email #11
+Subject: Ranking de Times Higher Education 2018
+From: Reitor ISCTE-IUL <reitor@iscte-iul.pt>
+Text: <html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="Generator" content="Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	line-height:105%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.EmailStyle18
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle19
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+span.EmailStyle20
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+span.EmailStyle21
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+span.EmailStyle22
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang="EN-US" link="#0563C1" vlink="#954F72">
+<div class="WordSection1">
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;line-height:normal">
+<span lang="PT" style="font-family:&quot;Verdana&quot;,sans-serif;color:#494343">À Comunidade,<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;line-height:normal">
+<span lang="PT" style="font-family:&quot;Verdana&quot;,sans-serif;color:#494343">Tenho o prazer de comunicar que o ISCTE-IUL se manteve no ranking Times Higher Education, embora este ano tenham sido avaliadas mais universidades. Apesar de mantermos a nossa posição entre
+ 601/800, registámos aumentos nos parâmetros referentes à &#8220;investigação&#8221;</span><span lang="PT" style="font-family:&quot;Verdana&quot;,sans-serif;color:#1F497D">,
+</span><span lang="PT" style="font-family:&quot;Verdana&quot;,sans-serif;color:#494343">&#8220;citações&#8221; e &#8220;visibilidade internacional&#8221;. Este ranking é particularmente interessante no caso do ISCTE-IUL porque não é afetado pela dimensão das universidades.<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;line-height:normal">
+<span lang="PT" style="font-family:&quot;Verdana&quot;,sans-serif;color:#494343">Aliás, se verificarem, entre as nove universidades portuguesas que figuram no ranking, estamos em 4º lugar nos parâmetros &#8220;ensino&#8221; e &#8220;investigação&#8221;. As &#8220;citações&#8221; são o nosso calcanhar de
+ Aquiles, que só com um tempo mais longo poderá melhorar.<o:p></o:p></span></p>
+<p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center;line-height:normal">
+<b><span lang="PT" style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343"><o:p>&nbsp;</o:p></span></b></p>
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="605" style="width:16.0cm;border-collapse:collapse">
+<thead>
+<tr>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" style="margin-bottom:18.75pt;line-height:normal"><b><span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">Rank<o:p></o:p></span></b></p>
+</td>
+<td width="116" style="width:86.7pt;padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" style="margin-bottom:18.75pt;line-height:normal"><b><span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">Name<o:p></o:p></span></b></p>
+</td>
+<td width="60" style="width:45.15pt;padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:18.75pt;text-align:center;line-height:normal">
+<b><span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">Overall<o:p></o:p></span></b></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:18.75pt;text-align:center;line-height:normal">
+<b><span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">Teaching<o:p></o:p></span></b></p>
+<p class="MsoNormal" align="center" style="margin-bottom:18.75pt;text-align:center;line-height:normal">
+<b><span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">(30%)<o:p></o:p></span></b></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:18.75pt;text-align:center;line-height:normal">
+<b><span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">Research<o:p></o:p></span></b></p>
+<p class="MsoNormal" align="center" style="margin-bottom:18.75pt;text-align:center;line-height:normal">
+<b><span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">(30%)<o:p></o:p></span></b></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:18.75pt;text-align:center;line-height:normal">
+<b><span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">Citations<o:p></o:p></span></b></p>
+<p class="MsoNormal" align="center" style="margin-bottom:18.75pt;text-align:center;line-height:normal">
+<b><span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">(30%)<o:p></o:p></span></b></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:18.75pt;text-align:center;line-height:normal">
+<b><span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">Industry Income<o:p></o:p></span></b></p>
+<p class="MsoNormal" align="center" style="margin-bottom:18.75pt;text-align:center;line-height:normal">
+<b><span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">(2,5%)<o:p></o:p></span></b></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:18.75pt;text-align:center;line-height:normal">
+<b><span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">International Outlook<o:p></o:p></span></b></p>
+<p class="MsoNormal" align="center" style="margin-bottom:18.75pt;text-align:center;line-height:normal">
+<b><span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">(7,5%)<o:p></o:p></span></b></p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" style="margin-bottom:18.75pt;line-height:normal"><span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">501&#8211;600<o:p></o:p></span></p>
+</td>
+<td width="116" style="width:86.7pt;padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" style="margin-bottom:18.75pt;line-height:normal"><span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif"><a href="https://www.timeshighereducation.com/world-university-rankings/university-aveiro#ranking-dataset/629337"><span style="color:#1169A3;text-decoration:none">University
+ of Aveiro</span></a><span style="color:#494343"><o:p></o:p></span></span></p>
+</td>
+<td width="60" style="width:45.15pt;padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">30.7&#8211;34.9<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">23.5<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">26.3<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">45.5<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">39.8<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">49.0<o:p></o:p></span></p>
+</td>
+</tr>
+<tr>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">501&#8211;600<o:p></o:p></span></p>
+</td>
+<td width="116" style="width:86.7pt;padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif"><a href="https://www.timeshighereducation.com/world-university-rankings/university-coimbra#ranking-dataset/629337"><span style="color:#1169A3;text-decoration:none">University of Coimbra</span></a><span style="color:#494343"><o:p></o:p></span></span></p>
+</td>
+<td width="60" style="width:45.15pt;padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">30.7&#8211;34.9<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">25.3<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">23.4<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">48.2<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">37.8<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">55.1<o:p></o:p></span></p>
+</td>
+</tr>
+<tr>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">501&#8211;600<o:p></o:p></span></p>
+</td>
+<td width="116" style="width:86.7pt;padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif"><a href="https://www.timeshighereducation.com/world-university-rankings/university-lisbon#ranking-dataset/629337"><span style="color:#1169A3;text-decoration:none">University of Lisbon</span></a><span style="color:#494343"><o:p></o:p></span></span></p>
+</td>
+<td width="60" style="width:45.15pt;padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">30.7&#8211;34.9<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">24.0<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">22.6<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">53.2<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">36.8<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">49.4<o:p></o:p></span></p>
+</td>
+</tr>
+<tr>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">501&#8211;600<o:p></o:p></span></p>
+</td>
+<td width="116" style="width:86.7pt;padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif"><a href="https://www.timeshighereducation.com/world-university-rankings/nova-university-lisbon#ranking-dataset/629337"><span style="color:#1169A3;text-decoration:none">NOVA University of Lisbon</span></a><span style="color:#494343"><o:p></o:p></span></span></p>
+</td>
+<td width="60" style="width:45.15pt;padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">30.7&#8211;34.9<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">24.8<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">24.8<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">46.5<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">43.9<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">55.9<o:p></o:p></span></p>
+</td>
+</tr>
+<tr>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">501&#8211;600<o:p></o:p></span></p>
+</td>
+<td width="116" style="width:86.7pt;padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif"><a href="https://www.timeshighereducation.com/world-university-rankings/university-porto#ranking-dataset/629337"><span style="color:#1169A3;text-decoration:none">University of Porto</span></a><span style="color:#494343"><o:p></o:p></span></span></p>
+</td>
+<td width="60" style="width:45.15pt;padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">30.7&#8211;34.9<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">27.1<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">26.9<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">47.0<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">39.8<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">48.3<o:p></o:p></span></p>
+</td>
+</tr>
+<tr>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">601&#8211;800<o:p></o:p></span></p>
+</td>
+<td width="116" style="width:86.7pt;padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif"><a href="https://www.timeshighereducation.com/world-university-rankings/university-algarve#ranking-dataset/629337"><span style="color:#1169A3;text-decoration:none">University of Algarve</span></a><span style="color:#494343"><o:p></o:p></span></span></p>
+</td>
+<td width="60" style="width:45.15pt;padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">21.5&#8211;30.6<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">19.5<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">11.2<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">42.3<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">33.2<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">56.9<o:p></o:p></span></p>
+</td>
+</tr>
+<tr>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">601&#8211;800<o:p></o:p></span></p>
+</td>
+<td width="116" style="width:86.7pt;padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif"><a href="https://www.timeshighereducation.com/world-university-rankings/university-beira-interior#ranking-dataset/629337"><span style="color:#1169A3;text-decoration:none">University of Beira Interior</span></a><span style="color:#494343"><o:p></o:p></span></span></p>
+</td>
+<td width="60" style="width:45.15pt;padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">21.5&#8211;30.6<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">20.0<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">15.0<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">48.7<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">32.0<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">41.8<o:p></o:p></span></p>
+</td>
+</tr>
+<tr>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+<b><span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">601&#8211;800<o:p></o:p></span></b></p>
+</td>
+<td width="116" style="width:86.7pt;padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+<b><span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif"><a href="https://www.timeshighereducation.com/world-university-rankings/iscte-university-institute-lisbon#ranking-dataset/629337"><span style="color:#1169A3;text-decoration:none">ISCTE-University
+ Institute of Lisbon</span></a><span style="color:#1169A3">&nbsp;&nbsp; *</span><span style="color:#494343"><o:p></o:p></span></span></b></p>
+</td>
+<td width="60" style="width:45.15pt;padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<b><span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">21.5&#8211;30.6<o:p></o:p></span></b></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<b><span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">24.6<o:p></o:p></span></b></p>
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<b><span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">(24.8)<o:p></o:p></span></b></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<b><span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">24.7<o:p></o:p></span></b></p>
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<b><span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">(23.2)<o:p></o:p></span></b></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<b><span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">17.5<o:p></o:p></span></b></p>
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<b><span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">(15.2)<o:p></o:p></span></b></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<b><span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">33.5<o:p></o:p></span></b></p>
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<b><span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">(36.9)<o:p></o:p></span></b></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<b><span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">46.6<o:p></o:p></span></b></p>
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<b><span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">(45.2)<o:p></o:p></span></b></p>
+</td>
+</tr>
+<tr>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343"><o:p>&nbsp;</o:p></span></p>
+</td>
+<td width="116" style="width:86.7pt;padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+</td>
+<td width="60" style="width:45.15pt;padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343"><o:p>&nbsp;</o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343"><o:p>&nbsp;</o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343"><o:p>&nbsp;</o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343"><o:p>&nbsp;</o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343"><o:p>&nbsp;</o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343"><o:p>&nbsp;</o:p></span></p>
+</td>
+</tr>
+<tr>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">601&#8211;800<o:p></o:p></span></p>
+</td>
+<td width="116" style="width:86.7pt;padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif"><a href="https://www.timeshighereducation.com/world-university-rankings/university-minho#ranking-dataset/629337"><span style="color:#1169A3;text-decoration:none">University of Minho</span></a><span style="color:#494343"><o:p></o:p></span></span></p>
+</td>
+<td width="60" style="width:45.15pt;padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">21.5&#8211;30.6<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">23.2<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">22.8<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">35.8<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">67.6<o:p></o:p></span></p>
+</td>
+<td style="padding:.75pt .75pt .75pt .75pt">
+<p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal">
+<span style="font-size:9.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:#494343">47.3<o:p></o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="MsoNormal"><span lang="PT" style="font-size:9.0pt;line-height:105%"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span lang="PT" style="font-size:9.0pt;line-height:105%">*&nbsp; <u>
+Entre parênteses, a posição do ISCTE-IUL no Ranking de 2017.<o:p></o:p></u></span></p>
+<p class="MsoNormal"><u><span lang="PT" style="font-size:9.0pt;line-height:105%;color:#1F497D"><o:p><span style="text-decoration:none">&nbsp;</span></o:p></span></u></p>
+<p class="MsoNormal"><span lang="PT" style="font-family:&quot;Verdana&quot;,sans-serif">Saudações Académicas,<o:p></o:p></span></p>
+<p class="MsoNormal"><span lang="PT" style="font-family:&quot;Verdana&quot;,sans-serif">Luís Reto<o:p></o:p></span></p>
+<p class="MsoNormal"><span lang="PT" style="font-family:&quot;Verdana&quot;,sans-serif">O Reitor<o:p></o:p></span></p>
+<p class="MsoNormal"><span lang="PT" style="font-size:9.0pt;line-height:105%"><o:p>&nbsp;</o:p></span></p>
+</div>
+</body>
+</html>
+
+==============================
+Email #12
+Subject: Sustentabilidade no ISCTE-IUL
+From: sustentabilidade iscte-iul <sustentabilidade@iscte-iul.pt>
+Text: <html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css" style="display:none;"><!-- P {margin-top:0;margin-bottom:0;} --></style>
+</head>
+<body dir="ltr">
+<div id="divtagdefaultwrapper" style="font-size: 12pt; color: rgb(0, 0, 0); font-family: Calibri, Helvetica, sans-serif, EmojiFont, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols;" dir="ltr">
+<p><span style="font-size: 12pt;">&nbsp;</span><br>
+</p>
+<div style="color: rgb(0, 0, 0);">
+<div>
+<div style="">
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%; background:#F2F2F2">
+<tbody>
+<tr>
+<td valign="top" style="padding:0cm 0cm 0cm 0cm">
+<div align="center">
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="600" style="width:450.0pt">
+<tbody>
+<tr>
+<td valign="top" style="padding:5.25pt 0cm 5.25pt 22.5pt">
+<p><span style="font-size:8.5pt; font-family:&quot;Open Sans&quot;,sans-serif; color:#323232"><a href="http://www.iscte-iul.pt" target="_blank" title="ISCTE-IUL" style="color: rgb(5, 99, 193); text-decoration: underline;"><b><span style="color:#7CBF00; text-decoration:none">Sustentabilidade
+ no ISCTE-Instituto Universitário de Lisboa</span></b></a> <br>
+Caso não consiga visualizar esta informação <a href="http://gci.iscte-iul.pt/newsletter/sustentabilidade.html" target="_blank" title="Visualize a informação no browser" style="color: rgb(5, 99, 193); text-decoration: underline;">
+<span style="color:#7CBF00; text-decoration:none">clique aqui.</span></a></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p align="center" style="text-align: center; margin: 0cm 0cm 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif;">
+<span style="display:none">&nbsp;</span></p>
+<div align="center">
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="600" style="width:450.0pt; border:solid #F1F1F1 1.0pt">
+<tbody>
+<tr>
+<td width="600" valign="top" style="width:450.0pt; border:none; background:white; padding:11.25pt 0cm 0cm 0cm">
+<p align="center" style="text-align: center; margin: 0cm 0cm 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif;">
+<span style=""><img border="0" width="600" height="150" id="_x0000_i1028" alt="Imagem da Sustentabilidade" style="user-select: none;" src="http://gci.iscte-iul.pt/newsletter/images/logo-sustentabilidade.jpg"></span><span style="font-size:12.0pt; font-family:&quot;Times New Roman&quot;,serif"></span></p>
+</td>
+</tr>
+<tr>
+<td width="600" valign="top" style="width:450.0pt; border:none; padding:0cm 0cm 0cm 0cm">
+<p align="center" style="text-align: center; margin: 0cm 0cm 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif;">
+<span style=""><img border="0" width="600" height="150" id="_x0000_i1027" alt="Imagem da Sustentabilidade" style="user-select: none;" src="http://gci.iscte-iul.pt/newsletter/images/img-sustentabilidade.jpg"></span></p>
+</td>
+</tr>
+<tr>
+<td width="375" valign="top" style="width:281.25pt; border:none; background:white; padding:0cm 30.0pt 0cm 22.5pt">
+<p><span style="font-family:&quot;Georgia&quot;,serif; color:#57636D">Caros membros da comunidade ISCTE-IUL,</span></p>
+<p><span style="font-family:&quot;Georgia&quot;,serif; color:#57636D">O envolvimento de toda a comunidade é determinante para um ISCTE-IUL sustentável. Cada um de nós tem um papel decisivo porque depende das nossas ações quotidianas o sucesso deste desígnio comum! Hoje,
+ partilhamos o significado do impacte ambiental associado às garrafas de água que consumimos.</span></p>
+<p><a href="https://www.youtube.com/watch?v=FVpKElrAnJk" target="_blank" style="color: rgb(5, 99, 193); text-decoration: underline;"><span style="font-family:&quot;Georgia&quot;,serif; color:blue; text-decoration:none"><img border="0" width="516" height="291" id="_x0000_i1026" alt="Vídeo Sustentabilidade@ISCTE-IUL | Garrafas de plástico" style="user-select: none;" src="http://gci.iscte-iul.pt/newsletter/images/video-sustentabilidade.jpg"></span></a><span style="font-family:&quot;Georgia&quot;,serif; color:#57636D"></span></p>
+<p><span style="font-family:&quot;Georgia&quot;,serif; color:#57636D">Em breve partilharemos novas informações relativas ao Sistema de Gestão Ambiental que está a ser desenvolvido e implementado no ISCTE-IUL e que será certificado em 2018 de acordo com a norma ISO 14001.</span></p>
+<p><span style="font-size:11.0pt; font-family:&quot;Georgia&quot;,serif; color:#57636D">Saudações académicas,<br>
+<br>
+<b>Vasco Rato</b><br>
+Diretor de Sustentabilidade </span></p>
+</td>
+</tr>
+<tr>
+<td valign="bottom" style="border:none; background:white; padding:0cm 0cm 0cm 0cm">
+<p style="margin: 0cm 0cm 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif;">
+<span style=""><img border="0" width="600" height="250" id="_x0000_i1025" alt="http://gci.iscte-iul.pt/newsletter/images/sustentabilidade.jpg" style="user-select: none;" src="http://gci.iscte-iul.pt/newsletter/images/sustentabilidade.jpg"></span><span style="font-family:&quot;Times New Roman&quot;,serif"></span></p>
+</td>
+<td style="border:none; padding:0cm 0cm 0cm 0cm"></td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="margin: 0cm 0cm 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif;">
+&nbsp;</p>
+<p style="margin: 0cm 0cm 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif;">
+<span style="font-size:10.0pt; font-family:&quot;Verdana&quot;,sans-serif; color:black">&nbsp;</span></p>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+==============================
+Email #13
+Subject: Sustainability at ISCTE-IUL
+From: sustentabilidade iscte-iul <sustentabilidade@iscte-iul.pt>
+Text: <html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css" style="display:none;"><!-- P {margin-top:0;margin-bottom:0;} --></style>
+</head>
+<body dir="ltr">
+<div id="divtagdefaultwrapper" style="font-size: 12pt; color: rgb(0, 0, 0); font-family: Calibri, Helvetica, sans-serif, EmojiFont, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols;" dir="ltr">
+<p><br>
+</p>
+<div style="color: rgb(0, 0, 0);">
+<div>
+<div style="">
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%; background:#F2F2F2">
+<tbody>
+<tr>
+<td valign="top" style="padding:0cm 0cm 0cm 0cm">
+<div align="center">
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="600" style="width:450.0pt">
+<tbody>
+<tr>
+<td valign="top" style="padding:5.25pt 0cm 5.25pt 22.5pt">
+<p><span style="font-size:8.5pt; font-family:&quot;Open Sans&quot;,sans-serif; color:#323232"><a href="http://www.iscte-iul.pt" target="_blank" title="ISCTE-IUL" style="color: rgb(5, 99, 193); text-decoration: underline;"><b><span lang="EN-US" style="color:#7CBF00; text-decoration:none">Sustainability
+ at ISCTE-IUL</span></b></a></span><span lang="EN-US" style="font-size:8.5pt; font-family:&quot;Open Sans&quot;,sans-serif; color:#323232">
+<br>
+View this email message in your browser </span><span style="font-size:8.5pt; font-family:&quot;Open Sans&quot;,sans-serif; color:#323232"><a href="http://gci.iscte-iul.pt/newsletter/sustentabilidade_en.html" target="_blank" title="View this email message in your browser here" style="color: rgb(5, 99, 193); text-decoration: underline;"><span lang="EN-US" style="color:#7CBF00; text-decoration:none">here.</span></a></span><span lang="EN-US" style="font-size:8.5pt; font-family:&quot;Open Sans&quot;,sans-serif; color:#323232"></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p align="center" style="text-align: center; margin: 0cm 0cm 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif;">
+<span style="display:none">&nbsp;</span></p>
+<div align="center">
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="600" style="width:450.0pt; border:solid #F1F1F1 1.0pt">
+<tbody>
+<tr>
+<td width="600" valign="top" style="width:450.0pt; border:none; background:white; padding:11.25pt 0cm 0cm 0cm">
+<p align="center" style="text-align: center; margin: 0cm 0cm 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif;">
+<span style=""><img border="0" width="600" height="150" id="_x0000_i1028" alt="Imagem da Sustentabilidade" style="user-select: none;" src="http://gci.iscte-iul.pt/newsletter/images/logo-sustentabilidade.jpg"></span><span style="font-size:12.0pt; font-family:&quot;Times New Roman&quot;,serif"></span></p>
+</td>
+</tr>
+<tr>
+<td width="600" valign="top" style="width:450.0pt; border:none; padding:0cm 0cm 0cm 0cm">
+<p align="center" style="text-align: center; margin: 0cm 0cm 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif;">
+<span style=""><img border="0" width="600" height="150" id="_x0000_i1027" alt="Imagem da Sustentabilidade" style="user-select: none;" src="http://gci.iscte-iul.pt/newsletter/images/img-sustentabilidade.jpg"></span></p>
+</td>
+</tr>
+<tr>
+<td width="375" valign="top" style="width:281.25pt; border:none; background:white; padding:0cm 30.0pt 0cm 22.5pt">
+<p style="line-height:115%"><span lang="EN-US" style="font-family:&quot;Georgia&quot;,serif; color:#57636D">Dear members of the ISCTE-IUL community,</span></p>
+<p style="line-height:115%"><span lang="EN-US" style="font-family:&quot;Georgia&quot;,serif; color:#57636D">&nbsp;</span></p>
+<p style="line-height:115%"><span lang="EN-US" style="font-family:&quot;Georgia&quot;,serif; color:#57636D">The involvement of the entire community is crucial for a sustainable ISCTE-IUL. Each of us has a decisive role because the success of this common purpose depends
+ on our daily actions! Today, we share the significance of the environmental impact associated with the water bottles we use.</span></p>
+<p><span lang="EN-US" style="font-family:&quot;Georgia&quot;,serif; color:#57636D">&nbsp;</span></p>
+<p><a href="https://www.youtube.com/watch?v=t5aPmDMbQkw" target="_blank" style="color: rgb(5, 99, 193); text-decoration: underline;"><span style="font-family:&quot;Georgia&quot;,serif; color:blue; text-decoration:none"><img border="0" width="520" height="292" id="_x0000_i1026" alt="Vídeo Sustentabilidade@ISCTE-IUL | Garrafas de plástico" style="user-select: none;" src="http://gci.iscte-iul.pt/newsletter/images/video-sustentabilidade-en.jpg"></span></a><span style="font-family:&quot;Georgia&quot;,serif; color:#57636D"></span></p>
+<p><span lang="EN-US" style="font-family:&quot;Georgia&quot;,serif; color:#57636D">&nbsp;</span></p>
+<p style="line-height:150%"><span lang="EN-US" style="font-family:&quot;Georgia&quot;,serif; color:#57636D">We will soon share new information regarding the Environmental Management System that is being developed and implemented at ISCTE-IUL and that will be certified
+ in 2018 in accordance with the standard ISO 14001.</span></p>
+<p style="line-height:150%"><span lang="EN-US" style="font-family:&quot;Georgia&quot;,serif; color:#57636D">&nbsp;</span></p>
+<p style="line-height:150%"><span lang="EN-US" style="font-family:&quot;Georgia&quot;,serif; color:#57636D">Best regards,<br>
+Vasco Rato<br>
+Director of Sustainability</span></p>
+</td>
+</tr>
+<tr>
+<td valign="bottom" style="border:none; background:white; padding:0cm 0cm 0cm 0cm">
+<p style="margin: 0cm 0cm 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif;">
+<span style=""><img border="0" width="600" height="250" id="_x0000_i1025" alt="http://gci.iscte-iul.pt/newsletter/images/sustentabilidade.jpg" style="user-select: none;" src="http://gci.iscte-iul.pt/newsletter/images/sustentabilidade.jpg"></span><span style="font-family:&quot;Times New Roman&quot;,serif"></span></p>
+</td>
+<td style="border:none; padding:0cm 0cm 0cm 0cm"></td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="margin: 0cm 0cm 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif;">
+&nbsp;</p>
+<p style="margin: 0cm 0cm 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif;">
+<span style="font-size:10.0pt; font-family:&quot;Verdana&quot;,sans-serif; color:black">&nbsp;</span></p>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+==============================
+Email #14
+Subject:  Constituição do Conselho Geral
+From: Reitor ISCTE-IUL <reitor@iscte-iul.pt>
+Text: javax.mail.internet.MimeMultipart@1649b0e6
+==============================
+Email #15
+Subject: ISCTE Business School classifica-se pela primeira vez no ranking de mestrados em gestão do Financial Times
+From: Reitor ISCTE-IUL <reitor@iscte-iul.pt>
+Text: <html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="Generator" content="Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	line-height:106%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang="EN-US" link="#0563C1" vlink="#954F72">
+<div class="WordSection1">
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white">
+<span lang="PT" style="mso-fareast-language:PT">À Comunidade ISCTE-IUL,</span><span lang="PT" style="font-size:9.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-language:PT"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white">
+<span lang="PT" style="mso-fareast-language:PT">&nbsp;</span><span lang="PT" style="font-size:9.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-language:PT"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white">
+<span lang="PT" style="mso-fareast-language:PT">O ISCTE-IUL integrou pela segunda vez este ano um ranking do Financial Times, desta vez através da classificação do Mestrado em Gestão de Empresas nos melhores 95 programas a nível mundial. Recorde-se que, no
+ passado mês de junho, o Financial Times divulgou o ranking dos mestrados em Finanças, colocando o nosso mestrado no top 40. Para poder candidatar-se, foi necessária a obtenção, pela IBS, da acreditação AACSB em agosto de 2016.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white">
+<span lang="PT" style="mso-fareast-language:PT"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white">
+<span lang="PT" style="mso-fareast-language:PT">Além do ISCTE-IUL, também a Nova e a Católica integraram este ranking, fazendo com que Portugal seja o sexto país com mais escolas de gestão no ranking (3), apenas atrás da França (20), do Reino Unido (18), da
+ Alemanha, da Bélgica e da Holanda (5). Com o mesmo número de escolas que Portugal encontram-se o Canadá, a Espanha, a Índia e a Itália.</span><span lang="PT" style="font-size:9.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-language:PT"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white">
+<span lang="PT" style="mso-fareast-language:PT">&nbsp;</span><span lang="PT" style="font-size:9.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-language:PT"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white">
+<span lang="PT" style="mso-fareast-language:PT">A presença no Financial Times surge no momento em que o ISCTE-IUL foi a única universidade pública com todas as vagas em programas de licenciaturas preenchidas na primeira fase e, por outro lado, manteve a sua
+ posição no ranking Times Higher Education &#8211; com aumentos nos parâmetros referentes à &#8220;investigação&#8221;, &#8220;citações&#8221; e &#8220;visibilidade internacional&#8221;.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white">
+<span lang="PT" style="mso-fareast-language:PT"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white">
+<span lang="PT" style="mso-fareast-language:PT">Os resultados obtidos nestes e noutros rankings, bem como o crescente número de acreditações internacionais de vários cursos, são fruto de uma estratégia de internacionalização de longo prazo, contemplada nos
+ sucessivos planos estratégicos do ISCTE-IUL. Este posicionamento tem merecido a adesão e envolvimento de toda a comunidade, mas tem de ser ainda mais reforçado, dada a competitividade internacional crescente no ensino universitário.</span><span lang="PT" style="font-size:9.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-language:PT"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white">
+<span lang="PT" style="mso-fareast-language:PT">&nbsp;</span><span lang="PT" style="font-size:9.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-language:PT"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white">
+<span lang="PT" style="mso-fareast-language:PT">&nbsp;</span><span lang="PT" style="font-size:9.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-language:PT"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white">
+<span lang="PT" style="mso-fareast-language:PT">Saudações académicas,</span><span lang="PT" style="font-size:9.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-language:PT"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white">
+<span lang="PT" style="mso-fareast-language:PT">&nbsp;</span><span lang="PT" style="font-size:9.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-language:PT"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white">
+<span lang="PT" style="mso-fareast-language:PT">Luís Reto<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;line-height:normal;background:white">
+<span lang="PT" style="mso-fareast-language:PT">O Reitor</span><span lang="PT" style="font-size:9.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-language:PT"><o:p></o:p></span></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+==============================
+Email #16
+Subject: IULCOME 2017 | Convite à comunidade 
+From: IULCOME ISCTE-IUL <iulcome@iscte-iul.pt>
+Text: <html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="Generator" content="Microsoft Word 15 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Calibri Light";
+	panose-1:2 15 3 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Georgia;
+	panose-1:2 4 5 2 5 4 5 2 3 3;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma",sans-serif;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text";
+	font-family:"Tahoma",sans-serif;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.EmailStyle22
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle23
+	{mso-style-type:personal;
+	font-family:"Calibri Light",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle24
+	{mso-style-type:personal;
+	font-family:"Verdana",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle25
+	{mso-style-type:personal;
+	font-family:"Verdana",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;}
+span.EmailStyle26
+	{mso-style-type:personal;
+	font-family:"Verdana",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;}
+span.EmailStyle27
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+span.EmailStyle28
+	{mso-style-type:personal;
+	font-family:"Verdana",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;}
+span.EmailStyle29
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+span.EmailStyle30
+	{mso-style-type:personal;
+	font-family:"Verdana",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;}
+span.EmailStyle31
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.EmailStyle32
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+span.EmailStyle34
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:431974320;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-212706954 529545586 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F02D;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l0:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l0:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l0:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l0:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l1
+	{mso-list-id:680276846;
+	mso-list-template-ids:-1551051926;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+@list l1:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l2
+	{mso-list-id:910654654;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1584740754 135659521 135659523 135659525 135659521 135659523 135659525 135659521 135659523 135659525;}
+@list l2:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l2:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l2:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l2:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l2:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l2:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l2:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l2:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l2:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l3
+	{mso-list-id:1412660185;
+	mso-list-template-ids:189969280;}
+@list l3:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body bgcolor="#F2F2F2" lang="EN-US" link="#0563C1" vlink="#954F72">
+<div class="WordSection1">
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;background:#F1F2F2">
+<tbody>
+<tr>
+<td style="padding:0cm 0cm 0cm 0cm">
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%">
+<tbody>
+<tr style="height:33.75pt">
+<td style="padding:0cm 0cm 0cm 0cm;height:33.75pt">
+<p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center;line-height:18.0pt">
+<span lang="PT" style="font-size:10.5pt;font-family:&quot;Georgia&quot;,serif;color:#333333">Caso não consiga visualizar esta informação
+</span><span style="font-size:10.5pt;font-family:&quot;Georgia&quot;,serif;color:#333333"><a href="http://gci.iscte-iul.pt/newsletter/iulcome2017-comunidade.html" target="_blank" title="Visualize a informação no browser"><span lang="PT" style="color:#0081C2;text-decoration:none">clique
+ aqui.</span></a></span><span lang="PT" style="font-size:10.5pt;font-family:&quot;Georgia&quot;,serif;color:#333333"><o:p></o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="MsoNormal"><span lang="PT"><o:p>&nbsp;</o:p></span></p>
+<div align="center">
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="600" style="width:450.0pt;background:white;border:solid #CCCCCC 1.0pt" id="email-content">
+<tbody>
+<tr>
+<td style="border:none;padding:0cm 0cm 0cm 0cm">
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="5" style="width:3.75pt">
+<tbody>
+<tr>
+<td style="padding:0cm 0cm 0cm 0cm">
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="600" style="width:450.0pt;padding:.75pt .75pt 0cm .75pt">
+<p class="MsoNormal"><a href="https://www.flickr.com/photos/iscteiul/albums/72157670568263323" target="_blank"><span style="color:blue;text-decoration:none"><img border="0" width="600" height="338" id="_x0000_i1027" src="http://gci.iscte-iul.pt/newsletter/images/iulcome17.jpg" alt="ISCTE-Instituto Universitário de Lisboa"></span></a><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr>
+<td valign="top" style="padding:0cm 18.75pt 0cm 18.75pt">
+<p style="line-height:21.0pt"><span style="font-family:&quot;Georgia&quot;,serif;color:#333333">Boa tarde,<o:p></o:p></span></p>
+<p style="line-height:21.0pt"><span style="font-family:&quot;Georgia&quot;,serif;color:#333333">Está a decorrer até à próxima sexta-feira, dia 15 de setembro, a 4.ª edição da iniciativa de receção dos novos estudantes &#8211;
+<strong><span style="font-family:&quot;Georgia&quot;,serif">IULCOME 2017</span></strong>.<o:p></o:p></span></p>
+<p style="line-height:21.0pt"><span style="font-family:&quot;Georgia&quot;,serif;color:#333333">Convidamos toda a
+<strong><span style="font-family:&quot;Georgia&quot;,serif">comunidade ISCTE-IUL</span></strong> a estar envolvida nas atividades que estão a ser desenvolvidas, apelando especialmente à vossa participação nas sessões de boas-vindas e encerramento no Grande Auditório:<o:p></o:p></span></p>
+<ul type="disc">
+<li class="MsoNormal" style="color:#333333;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;line-height:21.0pt;mso-list:l1 level1 lfo7">
+<strong><span style="font-family:&quot;Georgia&quot;,serif">Sessão de boas-vindas</span></strong><span style="font-family:&quot;Georgia&quot;,serif"> | Dia 12 de setembro às 17h00<o:p></o:p></span></li><li class="MsoNormal" style="color:#333333;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;line-height:21.0pt;mso-list:l1 level1 lfo7">
+<strong><span style="font-family:&quot;Georgia&quot;,serif">Sessão de encerramento</span></strong><span style="font-family:&quot;Georgia&quot;,serif"> | Dia 15 de setembro às 16h30
+<o:p></o:p></span></li></ul>
+<p style="line-height:21.0pt"><span style="font-family:&quot;Georgia&quot;,serif;color:#333333">&nbsp;<o:p></o:p></span></p>
+</td>
+</tr>
+<tr>
+<td style="background:#006699;padding:11.25pt 0cm 11.25pt 0cm">
+<p class="MsoNormal" align="center" style="text-align:center"><span style="font-family:&quot;Georgia&quot;,serif;color:white">Para mais informação, consulte o programa
+<a href="https://www.iscte-iul.pt/eventos/1355/iulcome-2017" target="_blank"><b><span style="color:white">aqui.</span></b></a>
+</span><span style="font-family:&quot;Times New Roman&quot;,serif"><o:p></o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="MsoNormal"><span style="display:none"><o:p>&nbsp;</o:p></span></p>
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%">
+<tbody>
+<tr>
+<td style="padding:7.5pt 7.5pt 7.5pt 7.5pt">
+<p class="MsoNormal" align="center" style="text-align:center"><img border="0" width="540" height="40" id="_x0000_i1028" src="http://gci.iscte-iul.pt/newsletter/images/iscte-b.png" alt="ISCTE - Instituto Universitário de Lisboa"><o:p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"><o:p></o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p class="MsoNormal"><span style="display:none"><o:p>&nbsp;</o:p></span></p>
+<div align="center">
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="600" style="width:450.0pt">
+<tbody>
+<tr>
+<td colspan="2" valign="top" style="padding:15.0pt 15.0pt 15.0pt 15.0pt">
+<p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center;line-height:13.5pt">
+<strong><span style="font-size:10.5pt;font-family:&quot;Georgia&quot;,serif;color:#333333">ISCTE - Instituto Universitário de Lisboa</span></strong><span style="font-size:10.5pt;font-family:&quot;Georgia&quot;,serif;color:#333333"><br>
+Av.ª das Forças Armadas, 1649-026 Lisboa <o:p></o:p></span></p>
+<p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center;line-height:13.5pt">
+<span style="font-size:10.5pt;font-family:&quot;Georgia&quot;,serif;color:#333333"><a href="http://iscte-iul.pt" title="ISCTE-IUL"><span style="color:#0081C2;text-decoration:none">www.iscte-iul.pt</span></a><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:22.5pt">
+<td style="padding:15.0pt 15.0pt 15.0pt 15.0pt;height:22.5pt"></td>
+<td style="padding:15.0pt 15.0pt 15.0pt 15.0pt;height:22.5pt"></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"><o:p></o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="MsoNormal"><span lang="PT"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span lang="PT" style="font-size:10.0pt;font-family:&quot;Verdana&quot;,sans-serif;color:black"><o:p>&nbsp;</o:p></span></p>
+</div>
+</body>
+</html>
+
+==============================
+Email #17
+Subject: Coro ISCTE-IUL - Admissão de novos elementos
+From: Reitoria do ISCTE-IUL <Reitoria@iscte-iul.pt>
+Text: <html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="Generator" content="Microsoft Word 15 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Georgia;
+	panose-1:2 4 5 2 5 4 5 2 3 3;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.EstiloCorreioEletrnico17
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EstiloCorreioEletrnico20
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang="EN-US" link="#0563C1" vlink="#954F72">
+<div class="WordSection1">
+<p class="MsoNormal"><span lang="PT" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;<o:p></o:p></span></p>
+<div>
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;background:#F1F2F2">
+<tbody>
+<tr>
+<td style="padding:0cm 0cm 0cm 0cm">
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%">
+<tbody>
+<tr style="height:33.75pt">
+<td style="padding:0cm 0cm 0cm 0cm;height:33.75pt">
+<p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center;line-height:18.0pt">
+<span style="font-size:10.5pt;font-family:&quot;Georgia&quot;,serif;color:#333333">Caso não consiga visualizar esta informação
+<a href="http://gci.iscte-iul.pt/newsletter/coroiscteiul.html" target="_blank" title="Visualize a informação no browser">
+<span style="color:#0061A1;text-decoration:none">clique aqui</span></a>.<o:p></o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<div align="center">
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="500" style="width:375.0pt;background:white;border:solid #CCCCCC 1.0pt" id="email-content">
+<tbody>
+<tr>
+<td style="border:none;padding:0cm 0cm 0cm 0cm">
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="5" style="width:3.75pt">
+<tbody>
+<tr>
+<td style="padding:0cm 0cm 0cm 0cm">
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="500" style="width:375.0pt;padding:.75pt .75pt 0cm .75pt">
+<p class="MsoNormal"><a href="http://bit.ly/candidaturaCOROISCTE" target="_blank"><span lang="PT" style="color:blue;mso-fareast-language:PT;text-decoration:none"><img border="0" width="500" id="_x0000_i1026" src="http://gci.iscte-iul.pt/newsletter/images/coroiscteiul.jpg" alt="O Coro ISCTE procura novas vozes. Inscreva-se em http://bit.ly/candidaturaCOROISCTE"></span></a><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"><o:p></o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p class="MsoNormal"><span style="display:none"><o:p>&nbsp;</o:p></span></p>
+<div align="center">
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="500" style="width:375.0pt">
+<tbody>
+<tr>
+<td valign="top" style="padding:15.0pt 15.0pt 15.0pt 15.0pt">
+<p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center;line-height:13.5pt">
+<strong><span style="font-size:10.5pt;font-family:&quot;Georgia&quot;,serif;color:#333333">ISCTE - Instituto Universitário de Lisboa</span></strong><span style="font-size:10.5pt;font-family:&quot;Georgia&quot;,serif;color:#333333"><br>
+Av.ª das Forças Armadas, 1649-026 Lisboa <o:p></o:p></span></p>
+<p align="center" style="margin:0cm;margin-bottom:.0001pt;text-align:center;line-height:13.5pt">
+<span style="font-size:10.5pt;font-family:&quot;Georgia&quot;,serif;color:#333333"><a href="http://iscte-iul.pt" title="ISCTE-IUL"><span style="color:#0061A1;text-decoration:none">www.iscte-iul.pt</span></a><o:p></o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"><o:p></o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</div>
+</body>
+</html>
+
+==============================
+Email #18
+Subject: Coro ISCTE-IUL - Admissão de novos elementos
+From: Reitoria do ISCTE-IUL <Reitoria@iscte-iul.pt>
+Text: javax.mail.internet.MimeMultipart@865dd6
+==============================
+Email #19
+Subject: 2017_L5315-1_8366eD1 (Programação Orientada para Objectos (1º semestre)): POO 2017-2018
+From: =?UTF-8?Q?Lu=C3=ADs__Nunes_-_luis=2Enunes=40iscte=2Ept?= <do-not-reply@iscte.pt>
+Text: javax.mail.internet.MimeMultipart@4da4253
+==============================
+Email #20
+Subject: POO 2107-2018
+From: =?ISO-8859-1?Q?Programa=E7=E3o_Orientada_para_Ob?=
+ =?ISO-8859-1?Q?jectos__1=BA_Semestre_2017_2018?= <noreply@iscte.pt>
+Text: javax.mail.internet.MimeMultipart@3972a855
+==============================
+Email #21
+Subject: Política de Sustentabilidade do ISCTE-IUL | ISCTE-IUL Sustainability Policy
+From: Sustentabilidade ISCTE-IUL <sustentabilidade@iscte-iul.pt>
+Text: <html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css" style="display:none;"><!-- P {margin-top:0;margin-bottom:0;} --></style>
+</head>
+<body dir="ltr">
+<div id="divtagdefaultwrapper" style="font-size: 12pt; color: rgb(0, 0, 0); font-family: Calibri, Helvetica, sans-serif, EmojiFont, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols;" dir="ltr">
+<p><span style="font-family: Calibri, Helvetica, sans-serif; font-size: 12pt;">&nbsp;</span><br>
+</p>
+<div style="color: rgb(0, 0, 0);">
+<div>
+<div id="divtagdefaultwrapper" dir="ltr" style="font-size: 12pt; color: rgb(0, 0, 0); font-family: Calibri, Helvetica, sans-serif, EmojiFont, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols;">
+<div style="color:rgb(0,0,0)">
+<div>
+<div style="">
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%; background:#F9F9F9">
+<tbody>
+<tr>
+<td valign="top" style="padding:0cm 0cm 0cm 0cm">
+<div align="center">
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="600" style="width:450.0pt">
+<tbody>
+<tr>
+<td valign="top" style="padding:3.75pt 0cm 3.75pt 0cm">
+<p><span style="font-size:8.5pt; font-family:&quot;Open Sans&quot;,sans-serif; color:#323232"><a href="http://www.iscte-iul.pt" target="_blank" title="ISCTE-IUL" style="color:rgb(5,99,193); text-decoration:underline"><b><span style="color:#7CBF00; text-decoration:none">Sustentabilidade
+ no ISCTE-Instituto Universitário de Lisboa </span></b></a><br>
+Caso não consiga visualizar esta informação <a href="http://gci.iscte-iul.pt/newsletter/sga.html" target="_blank" title="Visualize a informação no browser" style="color:rgb(5,99,193); text-decoration:underline">
+<span style="color:#7CBF00; text-decoration:none">clique aqui.</span></a></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p align="center" style="text-align:center; margin:0cm 0cm 0.0001pt; font-size:11pt; font-family:Calibri,sans-serif">
+<span style="display:none">&nbsp;</span></p>
+<div align="center">
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="600" style="width:450.0pt; border:solid #F1F1F1 1.0pt">
+<tbody>
+<tr>
+<td width="600" valign="top" style="width:450.0pt; border:none; background:white; padding:0cm 0cm 0cm 0cm">
+<p align="center" style="text-align:center; margin:0cm 0cm 0.0001pt; font-size:11pt; font-family:Calibri,sans-serif">
+<span style=""><img border="0" id="_x0000_i1026" alt="Imagem da Sustentabilidade" style="user-select: none;" src="http://gci.iscte-iul.pt/newsletter/images/sgapten.jpg"></span><span style="font-size:12.0pt; font-family:&quot;Times New Roman&quot;,serif"></span></p>
+</td>
+</tr>
+<tr>
+<td valign="top" style="border:none; background:white; padding:0cm 24.0pt 0cm 24.0pt">
+<p><span style="font-family:&quot;Georgia&quot;,serif; color:#323232">Caros membros da comunidade ISCTE-IUL,<br>
+</span><i><span style="font-family:&quot;Georgia&quot;,serif; color:#969696">Dear members of the ISCTE-IUL community,</span></i><span style="font-family:&quot;Georgia&quot;,serif; color:#323232"></span></p>
+<p><span style="font-family:&quot;Georgia&quot;,serif; color:#323232">Partilhamos hoje a Política de Sustentabilidade do ISCTE-IUL. Enviamos uma versão completa no formato de um
+<a href="http://gci.iscte-iul.pt/newsletter/files/cartaz-sga.pdf" target="_blank" style="color:rgb(5,99,193); text-decoration:underline">
+<span style="color:#7CBF00; text-decoration:none">cartaz digital</span></a> e um resumo no
+<a href="https://youtu.be/OkFzI0ZqOBw" target="_blank" style="color:rgb(5,99,193); text-decoration:underline">
+<span style="color:#7CBF00; text-decoration:none">formato vídeo.</span></a> A Política de Sustentabilidade do ISCTE-IUL formula um conjunto de princípios que são assumidos como compromissos para melhorar o nosso desempenho de sustentabilidade.<br>
+</span><i><span lang="EN-US" style="font-family:&quot;Georgia&quot;,serif; color:#969696">We share today the ISCTE-IUL Sustainability Policy. We send a full version in the form of a
+</span></i><i><span style="font-family:&quot;Georgia&quot;,serif; color:#969696"><a href="http://gci.iscte-iul.pt/newsletter/files/cartaz-sga.pdf" target="_blank" style="color:rgb(5,99,193); text-decoration:underline"><span lang="EN-US" style="color:#7CBF00; text-decoration:none">digital
+ poster</span></a></span></i><i><span lang="EN-US" style="font-family:&quot;Georgia&quot;,serif; color:#969696"> and a
+</span></i><i><span style="font-family:&quot;Georgia&quot;,serif; color:#969696"><a href="https://youtu.be/ozEA-IqzFEM" target="_blank" style="color:rgb(5,99,193); text-decoration:underline"><span lang="EN-US" style="color:#7CBF00; text-decoration:none">video overview</span></a></span></i><i><span lang="EN-US" style="font-family:&quot;Georgia&quot;,serif; color:#969696">.
+ The <br>
+ISCTE-IUL Sustainability Policy formulates a set of principles that are assumed as commitments to improve our sustainability performance.
+</span></i><span lang="EN-US" style="font-family:&quot;Georgia&quot;,serif; color:#323232"></span></p>
+<p><span style="font-family:&quot;Georgia&quot;,serif; color:#323232">Saudações académicas<br>
+</span><i><span style="font-family:&quot;Georgia&quot;,serif; color:#969696">Best regards,</span></i><span style="font-family:&quot;Georgia&quot;,serif; color:#323232">
+</span></p>
+<p><span style="font-family:&quot;Georgia&quot;,serif; color:#323232">Vasco Rato<br>
+Diretor de Sustentabilidade </span><i><span style="font-family:&quot;Georgia&quot;,serif; color:#969696"><br>
+Director of Sustainability</span></i><span style="font-family:&quot;Georgia&quot;,serif; color:#323232">
+</span></p>
+</td>
+</tr>
+<tr>
+<td valign="bottom" style="border:none; background:white; padding:0cm 0cm 0cm 0cm">
+<p style="margin:0cm 0cm 0.0001pt; font-size:11pt; font-family:Calibri,sans-serif">
+<span style=""><img border="0" id="_x0000_i1025" alt="http://gci.iscte-iul.pt/newsletter/images/pontos-sga.jpg" style="user-select: none;" src="http://gci.iscte-iul.pt/newsletter/images/pontos-sga.jpg"></span><span style="font-family:&quot;Times New Roman&quot;,serif"></span></p>
+</td>
+<td style="border:none; padding:0cm 0cm 0cm 0cm"></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p align="center" style="text-align:center; margin:0cm 0cm 0.0001pt; font-size:11pt; font-family:Calibri,sans-serif">
+<span style="display:none">&nbsp;</span></p>
+<div align="center">
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="600" style="width:450.0pt">
+<tbody>
+<tr>
+<td valign="top" style="padding:0cm 0cm 18.75pt 0cm">
+<p align="center" style="text-align:center; line-height:13.5pt"><strong><span style="font-size:10.5pt; font-family:&quot;Georgia&quot;,serif; color:#333333">ISCTE - Instituto Universitário de Lisboa</span></strong><span style="font-size:10.5pt; font-family:&quot;Georgia&quot;,serif; color:#333333"><br>
+Av.ª das Forças Armadas, 1649-026 Lisboa </span><span style="font-size:10.5pt; font-family:&quot;Georgia&quot;,serif; color:#333333"></span></p>
+<p align="center" style="text-align:center; line-height:13.5pt"><span style="font-size:10.5pt; font-family:&quot;Georgia&quot;,serif; color:#333333"><a href="http://iscte-iul.pt" title="ISCTE-IUL" style="color:rgb(5,99,193); text-decoration:underline"><span style="color:#0061A1; text-decoration:none">www.iscte-iul.pt</span></a></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="margin:0cm 0cm 0.0001pt; font-size:11pt; font-family:Calibri,sans-serif">
+&nbsp;</p>
+<p style="margin:0cm 0cm 0.0001pt; font-size:11pt; font-family:Calibri,sans-serif">
+&nbsp;</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+==============================
+Email #22
+Subject: Servidor de Sistemas Operativos: tigre.iul.lab
+From: Fernando Batista <fmmb@iscte.pt>
+Text: javax.mail.internet.MimeMultipart@62e7f11d
+==============================
+Email #23
+Subject: 2017_L0726-1_9119eD1 (Sistemas Operativos 2017/2018): Primeira semana de aulas
+From: "Fernando  Batista - fernando.batista@iscte.pt" <do-not-reply@iscte.pt>
+Text: javax.mail.internet.MimeMultipart@503d687a
+==============================
+Email #24
+Subject: Agenda Semanal | Eventos de I&D ISCTE-IUL | Semana de 19 a 25 de setembro de 2017
+From: GAI <GAI@iscte-iul.pt>
+Text: javax.mail.internet.MimeMultipart@770d3326
+==============================
+Email #25
+Subject: Programa de Bolsas Ibero-america Santander Universidades 2017/2018 - Candidaturas abertas - Novo prazo
+From: Outgoing IRO ISCTE-IUL <outgoing.iro@iscte-iul.pt>
+Text: javax.mail.internet.MimeMultipart@4cc8eb05
+==============================
+Email #26
+Subject: ISIC no teu regresso às aulas
+From: 'ISIC News' <news@isic.pt>
+Text: javax.mail.internet.MimeMultipart@51f116b8
+==============================
+Email #27
+Subject: BioBlitz Monsanto 2017, 23/09/2017 - Participa!
+From: GAI <GAI@iscte-iul.pt>
+Text: javax.mail.internet.MimeMultipart@19d481b
+==============================
+Email #28
+Subject: Estudantes de 1º ciclo iniciam os seus projetos de investigação no ISCTE-IUL
+From: GAI <GAI@iscte-iul.pt>
+Text: javax.mail.internet.MimeMultipart@1f97cf0d
+==============================
+Email #29
+Subject: Recibo
+From: tesouraria@iscte.pt
+Text: javax.mail.internet.MimeMultipart@140c9f39
+==============================
+Email #30
+Subject: ISCTE-IUL no Greenfest 2017
+From: Sustentabilidade ISCTE-IUL <sustentabilidade@iscte-iul.pt>
+Text: javax.mail.internet.MimeMultipart@4d910fd6

@@ -110,6 +110,7 @@ public class MailGui extends JFrame {
 		btnEnviar.setFont(new Font("Tahoma", Font.PLAIN, 13));
 		btnEnviar.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent arg0) {
+//				sendEmail(mensagem, destinatario);
 			}
 		});
 		btnEnviar.setBounds(717, 510, 89, 23);
@@ -129,16 +130,15 @@ public class MailGui extends JFrame {
 		textArea.setFont(new Font("Monospaced", Font.PLAIN, 15));
 		textArea.setBounds(564, 328, 242, 171);
 		contentPane.add(textArea);
+		String mensagem = textArea.getText().toString();
+		System.out.println(mensagem);
+		String destinatario = textField_1.getText().toString();
 		
 		JButton btnLoad = new JButton("Load");
 		btnLoad.setFont(new Font("Tahoma", Font.PLAIN, 13));
 		btnLoad.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				ArrayList<String> lista =criaListaMail();
-				for(String a : lista){
-					tArea.append(a + "\n");
 				}
-			}
 		});
 		btnLoad.setBounds(717, 226, 89, 23);
 		contentPane.add(btnLoad);
