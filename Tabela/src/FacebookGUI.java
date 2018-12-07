@@ -1,3 +1,5 @@
+
+import javax.swing.DefaultListModel;
 import javax.swing.ImageIcon;
 import javax.swing.JFrame;
 
@@ -6,6 +8,7 @@ import java.awt.FlowLayout;
 import java.awt.Font;
 
 import javax.swing.JLabel;
+import javax.swing.JList;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
@@ -13,6 +16,8 @@ import javax.swing.JTextArea;
 import java.awt.GridLayout;
 import javax.swing.JTextField;
 import javax.swing.border.EmptyBorder;
+import twitter4j.TwitterException;
+
 import javax.swing.JButton;
 import java.awt.event.ActionListener;
 import java.io.BufferedReader;
@@ -30,9 +35,8 @@ public class FacebookGUI extends JFrame {
 	private JPanel contentPane;
 	private JTextArea tArea;
 	private JScrollPane pane;
-	private JTextField procuraField;
-	//private JList<String> jList;
-	//private DefaultListModel<String> lista= new DefaultListModel<>();
+	private JList<String> jList;
+	private DefaultListModel<String> lista= new DefaultListModel<>();
 
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
@@ -49,7 +53,7 @@ public class FacebookGUI extends JFrame {
 
 	public FacebookGUI() {
 
-		
+		//setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(500, 50, 850, 600);
 		contentPane = new JPanel();
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
@@ -63,29 +67,6 @@ public class FacebookGUI extends JFrame {
 		pane = new JScrollPane(tArea);
 		pane.setBounds(10, 97, 515, 436);
 		contentPane.add(pane);
-
-		JButton btnNewButton = new JButton("Search");
-		btnNewButton.setFont(new Font("Tahoma", Font.PLAIN, 16));
-		//		btnNewButton.addActionListener(new ActionListener() {
-		//			public void actionPerformed(ActionEvent arg0) {
-		//				tArea.setText("");
-		//				String s =textField_3.getText();
-		//				ArrayList<String> a=procura(s);
-		//				
-		//				for(String bb : a){
-		//					tArea.append(bb + "\n");
-		//				}
-		//				
-		//			}
-		//		});
-		btnNewButton.setBounds(350, 31, 175, 31);
-		contentPane.add(btnNewButton);
-
-		procuraField = new JTextField();
-		procuraField.setFont(new Font("Tahoma", Font.PLAIN, 14));
-		procuraField.setBounds(10, 31, 310, 31);
-		contentPane.add(procuraField);
-		procuraField.setColumns(10);
 
 		JLabel label1 = new JLabel("");
 		java.awt.Image img1 = new ImageIcon (this.getClass().getResource("/hat.png")).getImage();

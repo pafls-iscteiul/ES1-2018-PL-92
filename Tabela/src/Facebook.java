@@ -29,7 +29,7 @@ public ArrayList<String> downloadFeed() {
 		
 		ArrayList<String> d = new ArrayList<String>();
 		String accessToken5 ;
-		accessToken5 = "EAAhDVEHQGzEBAG2CImrY8eg2vt0a7SZCoIRIUWAMxZCOX0eMWZBS27yGJUQCdTTTlehpD7WMlPfoZCZB29jxPMckmSk5Un4CZBYVDOiBxOyC9DYpRfwfvgVWomnZB1HMRW75E1CtDX9smYhDHXsjeL7f4SVmYk3JmZAfxHc0CVtOBKQM8LoBaZAZAjto0X7mgoMBYvFemZBnRrohgZDZD";
+		accessToken5 = "EAAhDVEHQGzEBAEytg1q6aX0UMvkYHxBsMqQYREvw1xUopeVXRCMa2fixv5d8ZBXkfOOyM5KA4e5QrZCzfkBdAVZCGOprdAss4gZBt2s2TSFAvCjeswStGvZCp9ZCtMWHymL7lJcTrJoTr97SHZBG2daDh84ckNqJ3TCAYs1R6S9zz3PdzqL3KMjqY2JRQ4NyaaOvEShREZAvNgZDZD";
 		FacebookClient fbClient5 = new DefaultFacebookClient(accessToken5, Version.VERSION_3_2);
 		Connection<Post> result = fbClient5.fetchConnection("me/feed",Post.class);
 		

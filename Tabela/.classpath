@@ -2,6 +2,7 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
 		<attributes>
+			<attribute name="module" value="true"/>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
@@ -19,10 +20,6 @@
 	<classpathentry kind="lib" path="jgoodies-common-1.8.0.jar" sourcepath="jgoodies-common-1.8.0-sources.jar"/>
 	<classpathentry kind="lib" path="jgoodies-forms-1.8.0.jar" sourcepath="jgoodies-forms-1.8.0-sources.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
-	<classpathentry kind="lib" path="/Users/gabrielaamaral/Desktop/IGE 3.1/ES/javax.mail.jar.zip"/>
-	<classpathentry kind="lib" path="/Users/gabrielaamaral/Desktop/IGE 3.1/ES/restfb-taglets-1.0.jar"/>
-	<classpathentry kind="lib" path="/Users/gabrielaamaral/Desktop/IGE 3.1/ES/twitter4j-4.0.7.zip"/>
-	<classpathentry kind="lib" path="/Users/gabrielaamaral/Desktop/IGE 3.1/ES/activation.jar.zip"/>
 	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>

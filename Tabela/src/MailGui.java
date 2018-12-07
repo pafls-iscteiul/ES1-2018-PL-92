@@ -15,7 +15,6 @@ import java.awt.GridLayout;
 import javax.swing.JTextField;
 import javax.swing.border.EmptyBorder;
 
-
 import twitter4j.TwitterException;
 
 import javax.swing.JButton;
@@ -36,9 +35,6 @@ public class MailGui extends JFrame {
 	private JPanel contentPane;
 	private JTextArea tArea;
 	private JScrollPane pane;
-	private JTextField procuraField;
-	private JTextField textField_1;
-	private JLabel lblDfdf;
 	
 	
 	public static void main(String[] args) {
@@ -69,29 +65,6 @@ public class MailGui extends JFrame {
 		pane = new JScrollPane(tArea);
 		pane.setBounds(10, 97, 515, 436);
 		contentPane.add(pane);
-
-		JButton btnNewButton = new JButton("Search");
-		btnNewButton.setFont(new Font("Tahoma", Font.PLAIN, 16));
-		//		btnNewButton.addActionListener(new ActionListener() {
-		//			public void actionPerformed(ActionEvent arg0) {
-		//				tArea.setText("");
-		//				String s =textField_3.getText();
-		//				ArrayList<String> a=procura(s);
-		//				
-		//				for(String bb : a){
-		//					tArea.append(bb + "\n");
-		//				}
-		//				
-		//			}
-		//		});
-		btnNewButton.setBounds(350, 31, 175, 31);
-		contentPane.add(btnNewButton);
-
-		procuraField = new JTextField();
-		procuraField.setFont(new Font("Tahoma", Font.PLAIN, 14));
-		procuraField.setBounds(10, 31, 310, 31);
-		contentPane.add(procuraField);
-		procuraField.setColumns(10);
 
 		JLabel label1 = new JLabel("");
 		java.awt.Image img1 = new ImageIcon (this.getClass().getResource("/hat.png")).getImage();
@@ -133,16 +106,6 @@ public class MailGui extends JFrame {
 		btnEnviar.setBounds(717, 510, 89, 23);
 		getContentPane().add(btnEnviar);
 
-		textField_1 = new JTextField();
-		textField_1.setBounds(651, 276, 156, 20);
-		contentPane.add(textField_1);
-		textField_1.setColumns(10);
-
-		lblDfdf = new JLabel("Destinatário");
-		lblDfdf.setFont(new Font("Microsoft YaHei", Font.PLAIN, 13));
-		lblDfdf.setBounds(564, 268, 77, 35);
-		contentPane.add(lblDfdf);
-
 	
 		JButton btnLoad = new JButton("Load");
 		btnLoad.setFont(new Font("Tahoma", Font.PLAIN, 13));
@@ -160,7 +123,7 @@ public class MailGui extends JFrame {
 			}
 		});
 
-		btnLoad.setBounds(717, 226, 89, 23);
+		btnLoad.setBounds(717, 294, 89, 23);
 		contentPane.add(btnLoad);
 	}
 
@@ -174,8 +137,5 @@ public class MailGui extends JFrame {
 		Mail m= new Mail();
 		m.sendEmails(a); 
 	}
-
-
-
 
 }

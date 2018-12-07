@@ -17,7 +17,6 @@ import javax.swing.border.EmptyBorder;
 
 import twitter4j.TwitterException;
 
-
 import javax.swing.JButton;
 import java.awt.event.ActionListener;
 import java.io.BufferedReader;
@@ -36,10 +35,7 @@ public class TwitterGUI extends JFrame {
 	private JPanel contentPane;
 	private JTextArea tArea;
 	private JScrollPane pane;
-	private JTextField procuraField;
-	private JButton btnRet;
-	private JList<String> jList;
-	private DefaultListModel<String> lista= new DefaultListModel<>();
+	
 
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
@@ -68,21 +64,9 @@ public class TwitterGUI extends JFrame {
 		//jList=new JList<String>();
 		tArea.setBounds(10, 97, 515, 436);	
 		//jList.setBounds(10, 97, 515, 436);	
-		//pane = new JScrollPane(jList);
 		pane = new JScrollPane(tArea);
 		pane.setBounds(10, 97, 515, 436);
 		contentPane.add(pane);
-
-		JButton btnNewButton = new JButton("Search");
-		btnNewButton.setFont(new Font("Tahoma", Font.PLAIN, 16));
-		btnNewButton.setBounds(350, 31, 175, 31);
-		contentPane.add(btnNewButton);
-
-		procuraField = new JTextField();
-		procuraField.setFont(new Font("Tahoma", Font.PLAIN, 14));
-		procuraField.setBounds(10, 31, 310, 31);
-		contentPane.add(procuraField);
-		procuraField.setColumns(10);
 
 		JLabel label1 = new JLabel("");
 		java.awt.Image img1 = new ImageIcon (this.getClass().getResource("/hat.png")).getImage();
@@ -121,15 +105,6 @@ public class TwitterGUI extends JFrame {
 		btnTweet.setBounds(717, 510, 89, 23);
 		getContentPane().add(btnTweet);
 
-		btnRet = new JButton("Retweet");
-		btnRet.setFont(new Font("Tahoma", Font.PLAIN, 13));
-		btnRet.addActionListener(new ActionListener() {
-			public void actionPerformed(ActionEvent e) {
-			}
-		});
-		btnRet.setBounds(574, 510, 89, 23);
-		contentPane.add(btnRet);
-
 		JButton btnLoad = new JButton("Load");
 		btnLoad.setFont(new Font("Tahoma", Font.PLAIN, 13));
 		btnLoad.addActionListener(new ActionListener() {
@@ -139,7 +114,7 @@ public class TwitterGUI extends JFrame {
 					for(String a : lista2){
 						tArea.append(a + "\n");
 						//jList.add(a);
-						lista.addElement(a);	
+						//lista.addElement(a);	
 					}	
 				} catch (TwitterException e1) {
 					// TODO Auto-generated catch block
@@ -147,7 +122,7 @@ public class TwitterGUI extends JFrame {
 				}
 			}
 		});
-		jList= new JList<>(lista);
+		//jList= new JList<>(lista);
 		btnLoad.setBounds(717, 275, 89, 23);
 		contentPane.add(btnLoad);
 
@@ -160,7 +135,7 @@ public class TwitterGUI extends JFrame {
 
 	public void enviaTweet(String a) throws TwitterException {
 		SendTweets b = new SendTweets();
-		//b.PostingToTwitter(a); 
+		b.PostingToTwitter(a); 
 	}
 
 }
