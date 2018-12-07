@@ -1,6 +1,7 @@
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
+import java.util.ArrayList;
 import java.util.List;
 import com.restfb.Connection;
 import com.restfb.DefaultFacebookClient;
@@ -18,59 +19,45 @@ import com.restfb.types.User;
 public class Facebook {
 	@SuppressWarnings("deprecation")
 	private int counter5;
-	public static void main(String[] args) throws FileNotFoundException {
-		//1 e 2
-		//		String accessToken2 = "EAAbbSpTKksgBAF4fZAn8yaeSusoPfRoNMD8pQbNF9UBYn0Q7VY0umZCtDM2f5YRcN7AjU1WW9J00tTO4fTPZAaF28J5AL6kjkwuNbf0trZBt3QgB1DwzCCbiiM8NSdAHxhtSkOKr3Ej5TW1yzOZC8HM2BniTZCIjbMxWZBLs2eYcdeytpbyaOSv4KXDWlg3K3QZD";
-		//		FacebookClient fbClient2 = new DefaultFacebookClient(accessToken2, Version.VERSION_2_11); 
-		//		User me2 = fbClient2.fetchObject("me", User.class);
-		//		System.out.println("Facebook:");
-		//		System.out.println("Id: " + me2.getId());
-		//		System.out.println("Name: " + me2.getName());
-		//4
-
-		//		String accessToken4 = "EAAbbSpTKksgBAF4fZAn8yaeSusoPfRoNMD8pQbNF9UBYn0Q7VY0umZCtDM2f5YRcN7AjU1WW9J00tTO4fTPZAaF28J5AL6kjkwuNbf0trZBt3QgB1DwzCCbiiM8NSdAHxhtSkOKr3Ej5TW1yzOZC8HM2BniTZCIjbMxWZBLs2eYcdeytpbyaOSv4KXDWlg3K3QZD";
-		//		FacebookClient fbClient4 = new DefaultFacebookClient(accessToken4);
-		//		
-		//		//Extends the time of the token
-		//		AccessToken extendedAccessToken = fbClient4.obtainExtendedAccessToken("2325828974156593","9ede8f285c28e64c0ca5adc333c4a13d");
-		//		System.out.println("ExtendedAccessToken: "+extendedAccessToken.getAccessToken());
-		//		System.out.println("Expires: " + extendedAccessToken.getExpires());
-		//		//5
-
+	
+	
+	public Facebook() {
+		
+	}
+	
+public ArrayList<String> downloadFeed() {
+		
+		ArrayList<String> d = new ArrayList<String>();
 		String accessToken5 ;
-		accessToken5 = "EAAhDVEHQGzEBAPJ5I9jbyxZCiBhe960RBRZCOG3gH2CiIZAj0E3zX9MLP2ROOWzGZBPEKfdu8PCQIO8mZA9t3sgAXlLvBYzAZBrVwEkz35Dkwn7oYvH7ZBe1u7n1v0qab1utmIWDqotYfvJV0NBnGrnWeMxzYAZBnl3pbKqTtQZA4HvgW8wtNZAQ8ZA6SZABSfaPLHS1yXuZAhuzgigZDZD";	
-		FacebookClient fbClient5 = new DefaultFacebookClient(accessToken5);
-		//Print the posts of the time line
+		accessToken5 = "EAAhDVEHQGzEBAG2CImrY8eg2vt0a7SZCoIRIUWAMxZCOX0eMWZBS27yGJUQCdTTTlehpD7WMlPfoZCZB29jxPMckmSk5Un4CZBYVDOiBxOyC9DYpRfwfvgVWomnZB1HMRW75E1CtDX9smYhDHXsjeL7f4SVmYk3JmZAfxHc0CVtOBKQM8LoBaZAZAjto0X7mgoMBYvFemZBnRrohgZDZD";
+		FacebookClient fbClient5 = new DefaultFacebookClient(accessToken5, Version.VERSION_3_2);
 		Connection<Post> result = fbClient5.fetchConnection("me/feed",Post.class);
-		//System.out.println("\nPosts:");
-
-		File file = new File("C:/Users/gabrielaamaral/git/ES1-2018-PL-92/Tabela/src/postsFacebook.txt");
-		PrintWriter escrever = new PrintWriter(file);
 		
 		int counter5 = 1;
 		
-		//int counterTotal = 0;
+		
 		for (List<Post> page : result) {
 			for (Post aPost : page) {
 				//print the posts with the word ISCTE
 				//if (aPost.getMessage() != null && aPost.getMessage().contains("ISCTE")) {
 				if (aPost.getMessage() != null && counter5<=15) {
 					String x= "---- Post "+ counter5 + " ----";
-					escrever.println(x);
+					d.add(x);
 					String a="Id: "+"fb.com/"+aPost.getId();
-					escrever.println(a);
+					d.add(a);
 					String b="Message: "+aPost.getMessage();
-					escrever.println(b);
+					d.add(b);
 					String c="Created: "+aPost.getCreatedTime();
-					escrever.println(c);
+					d.add(c);
 					counter5++;
 				}
 				//counterTotal++;
 			}
 		}
-		escrever.close();
-		//System.out.println("-------------\number of Results: " + counter5+"/"+counterTotal);		
+		
+		return d;
 	}
+
 	public int getCounter5() {
 		return counter5;
 	}
