@@ -23,6 +23,7 @@ public class Facebook {
 	
 	public Facebook() {
 		
+		
 	}
 	
 public ArrayList<String> downloadFeed() {
